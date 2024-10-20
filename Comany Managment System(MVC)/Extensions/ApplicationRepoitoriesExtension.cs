@@ -3,7 +3,7 @@ using Comany_Managment_System_MVC_.Repository.Repositories;
 
 namespace Comany_Managment_System_MVC_.Extensions
 {
-    public static class ApplicationRepoitoriesExtension
+    public static partial class ApplicationRepoitoriesExtension
     {
         public static void AddRepoitoriesServices(this IServiceCollection services)
         {

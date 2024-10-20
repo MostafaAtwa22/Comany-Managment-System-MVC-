@@ -8,10 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DepartmentServices\" />
-    <Folder Include="DependentServices\" />
-    <Folder Include="EmployeeServices\" />
-    <Folder Include="ProjectServices\" />
+    <ProjectReference Include="..\Comany Managment System(MVC).Core\Comany Managment System(MVC).Core.csproj" />
   </ItemGroup>
 
 </Project>

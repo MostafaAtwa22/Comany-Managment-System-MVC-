@@ -13,3 +13,4 @@ D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC).Re
 D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC).Repository\obj\Debug\net8.0\refint\Comany Managment System(MVC).Repository.dll
 D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC).Repository\obj\Debug\net8.0\Comany Managment System(MVC).Repository.pdb
 D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC).Repository\obj\Debug\net8.0\ref\Comany Managment System(MVC).Repository.dll
+D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC).Repository\obj\Debug\net8.0\Comany Managment System(MVC).Repository.sourcelink.json

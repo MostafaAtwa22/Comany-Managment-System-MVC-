@@ -153,3 +153,4 @@ D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\ob
 D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\obj\Debug\net8.0\Comany Managment System(MVC).pdb
 D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\obj\Debug\net8.0\Comany Managment System(MVC).genruntimeconfig.cache
 D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\obj\Debug\net8.0\ref\Comany Managment System(MVC).dll
+D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\obj\Debug\net8.0\Comany Managment System(MVC).sourcelink.json
