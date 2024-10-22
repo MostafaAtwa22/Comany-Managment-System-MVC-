@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Comany_Managment_System_MVC_.Repository.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20241019155503_Initial")]
+    [Migration("20241021152530_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
@@ -137,7 +137,10 @@ namespace Comany_Managment_System_MVC_.Repository.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
                         .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Image")
                         .IsRequired()

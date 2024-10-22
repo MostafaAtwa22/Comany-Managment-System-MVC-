@@ -11,6 +11,9 @@ namespace Comany_Managment_System_MVC_.Repository.Configurations
         {
             builder.HasKey(d => new { d.Name, d.EmployeeId });
 
+            builder.Property(d => d.Id)
+                .ValueGeneratedOnAdd();
+
             builder.HasOne(d => d.Employee)
                 .WithMany(e => e.Dependents)
                 .HasForeignKey(d => d.EmployeeId)

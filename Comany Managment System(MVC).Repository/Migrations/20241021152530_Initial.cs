@@ -230,7 +230,8 @@ namespace Comany_Managment_System_MVC_.Repository.Migrations
                 {
                     Name = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
                     EmployeeId = table.Column<int>(type: "int", nullable: false),
-                    Id = table.Column<int>(type: "int", nullable: false),
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
                     Age = table.Column<int>(type: "int", nullable: false),
                     Image = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Gender = table.Column<string>(type: "nvarchar(max)", nullable: false)

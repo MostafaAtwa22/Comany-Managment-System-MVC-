@@ -3,6 +3,86 @@
   "WorkspaceRootPath": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\extensions\\applicationrepoitoriesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\extensions\\applicationrepoitoriesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\viewmodels\\project\\editprojectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\viewmodels\\project\\editprojectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\viewmodels\\employee\\editemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\viewmodels\\employee\\editemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\viewmodels\\employee\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\viewmodels\\employee\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\viewmodels\\dependent\\commondependentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\viewmodels\\dependent\\commondependentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\viewmodels\\dependent\\createdependentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\viewmodels\\dependent\\createdependentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\viewmodels\\dependent\\editdependentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\viewmodels\\dependent\\editdependentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\attributes\\allowedextensionsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\attributes\\allowedextensionsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\settings\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\settings\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F64E1B1-13CE-4686-82B3-C5AADF431FA1}|Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F64E1B1-13CE-4686-82B3-C5AADF431FA1}|Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj|solutionrelative:comany managment system(mvc).repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E05282-9B7C-4B27-87CF-32643459E46B}|Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E05282-9B7C-4B27-87CF-32643459E46B}|Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj|solutionrelative:comany managment system(mvc).core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E05282-9B7C-4B27-87CF-32643459E46B}|Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E05282-9B7C-4B27-87CF-32643459E46B}|Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj|solutionrelative:comany managment system(mvc).core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F64E1B1-13CE-4686-82B3-C5AADF431FA1}|Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).repository\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F64E1B1-13CE-4686-82B3-C5AADF431FA1}|Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj|solutionrelative:comany managment system(mvc).repository\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F64E1B1-13CE-4686-82B3-C5AADF431FA1}|Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).repository\\configurations\\dependentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F64E1B1-13CE-4686-82B3-C5AADF431FA1}|Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj|solutionrelative:comany managment system(mvc).repository\\configurations\\dependentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).services\\employeeservices\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|solutionrelative:comany managment system(mvc).services\\employeeservices\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\viewmodels\\project\\commonprojectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\viewmodels\\project\\commonprojectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,10 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F7E05282-9B7C-4B27-87CF-32643459E46B}|Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7E05282-9B7C-4B27-87CF-32643459E46B}|Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj|solutionrelative:comany managment system(mvc).core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\viewmodels\\dependent\\commondependentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\viewmodels\\dependent\\commondependentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7E05282-9B7C-4B27-87CF-32643459E46B}|Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).core\\models\\dependent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,20 +139,8 @@
       "RelativeMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|solutionrelative:comany managment system(mvc).services\\dependentservices\\dependentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7E05282-9B7C-4B27-87CF-32643459E46B}|Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7E05282-9B7C-4B27-87CF-32643459E46B}|Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj|solutionrelative:comany managment system(mvc).core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\extensions\\connectionstringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\extensions\\connectionstringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\extensions\\applicationrepoitoriesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\extensions\\applicationrepoitoriesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F64E1B1-13CE-4686-82B3-C5AADF431FA1}|Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F64E1B1-13CE-4686-82B3-C5AADF431FA1}|Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj|solutionrelative:comany managment system(mvc).repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F64E1B1-13CE-4686-82B3-C5AADF431FA1}|Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).repository\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,7 +162,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,70 +186,215 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Helpers\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Helpers\\MappingProfile.cs",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Helpers\\MappingProfile.cs",
-              "RelativeToolTip": "Comany Managment System(MVC)\\Helpers\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Comany Managment System(MVC)\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T19:21:38.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateDependentVM.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\ViewModels\\Dependent\\CreateDependentVM.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\ViewModels\\Dependent\\CreateDependentVM.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\ViewModels\\Dependent\\CreateDependentVM.cs",
+              "RelativeToolTip": "Comany Managment System(MVC)\\ViewModels\\Dependent\\CreateDependentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T20:46:32.357Z",
+              "WhenOpened": "2024-10-22T19:04:40.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditDependentVM.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\ViewModels\\Dependent\\EditDependentVM.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\ViewModels\\Dependent\\EditDependentVM.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\ViewModels\\Dependent\\EditDependentVM.cs",
+              "RelativeToolTip": "Comany Managment System(MVC)\\ViewModels\\Dependent\\EditDependentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:04:17.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Dependent.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Core\\Models\\Dependent.cs",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC).Core\\Models\\Dependent.cs",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Core\\Models\\Dependent.cs",
-              "RelativeToolTip": "Comany Managment System(MVC).Core\\Models\\Dependent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Title": "AllowedExtensionsAttribute.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Attributes\\AllowedExtensionsAttribute.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Attributes\\AllowedExtensionsAttribute.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Attributes\\AllowedExtensionsAttribute.cs",
+              "RelativeToolTip": "Comany Managment System(MVC)\\Attributes\\AllowedExtensionsAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T21:16:04.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CommonDependentVM.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\ViewModels\\Dependent\\CommonDependentVM.cs",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\ViewModels\\Dependent\\CommonDependentVM.cs",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\ViewModels\\Dependent\\CommonDependentVM.cs",
-              "RelativeToolTip": "Comany Managment System(MVC)\\ViewModels\\Dependent\\CommonDependentVM.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T21:15:36.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Program.cs",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Program.cs",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Program.cs",
-              "RelativeToolTip": "Comany Managment System(MVC)\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T15:19:01.867Z",
+              "WhenOpened": "2024-10-22T19:03:40.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC).Services\\GlobalUsings.cs",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\GlobalUsings.cs",
-              "RelativeToolTip": "Comany Managment System(MVC).Services\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "FileSettings.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Settings\\FileSettings.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Settings\\FileSettings.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Settings\\FileSettings.cs",
+              "RelativeToolTip": "Comany Managment System(MVC)\\Settings\\FileSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T21:10:49.356Z",
+              "WhenOpened": "2024-10-22T19:02:21.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "aos.cjs.js",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
+              "RelativeToolTip": "Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
+              "ViewState": "AgIAALYBAAAAAAAAAAAawMQBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T18:57:13.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationRepoitoriesExtension.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Extensions\\ApplicationRepoitoriesExtension.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Extensions\\ApplicationRepoitoriesExtension.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Extensions\\ApplicationRepoitoriesExtension.cs",
+              "RelativeToolTip": "Comany Managment System(MVC)\\Extensions\\ApplicationRepoitoriesExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:09:02.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Comany Managment System(MVC)\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T15:40:36.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\appsettings.json",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\appsettings.json",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\appsettings.json",
+              "RelativeToolTip": "Comany Managment System(MVC)\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T21:22:55.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditProjectVM.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\ViewModels\\Project\\EditProjectVM.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\ViewModels\\Project\\EditProjectVM.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\ViewModels\\Project\\EditProjectVM.cs",
+              "RelativeToolTip": "Comany Managment System(MVC)\\ViewModels\\Project\\EditProjectVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:05:10.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateEmployeeVM.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "RelativeToolTip": "Comany Managment System(MVC)\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:04:56.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditEmployeeVM.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\ViewModels\\Employee\\EditEmployeeVM.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\ViewModels\\Employee\\EditEmployeeVM.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\ViewModels\\Employee\\EditEmployeeVM.cs",
+              "RelativeToolTip": "Comany Managment System(MVC)\\ViewModels\\Employee\\EditEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:05:02.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAawBIBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T18:57:08.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC).Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Comany Managment System(MVC).Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:51:09.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommonDependentVM.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\ViewModels\\Dependent\\CommonDependentVM.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\ViewModels\\Dependent\\CommonDependentVM.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\ViewModels\\Dependent\\CommonDependentVM.cs",
+              "RelativeToolTip": "Comany Managment System(MVC)\\ViewModels\\Dependent\\CommonDependentVM.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:15:36.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Repository\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC).Repository\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Repository\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Comany Managment System(MVC).Repository\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:53:30.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "ProjectService.cs",
               "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\ProjectServices\\ProjectService.cs",
               "RelativeDocumentMoniker": "Comany Managment System(MVC).Services\\ProjectServices\\ProjectService.cs",
@@ -197,25 +402,97 @@
               "RelativeToolTip": "Comany Managment System(MVC).Services\\ProjectServices\\ProjectService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T21:10:16.572Z",
+              "WhenOpened": "2024-10-20T21:10:16.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Repository\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC).Repository\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Repository\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Comany Managment System(MVC).Repository\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:08:31.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 20,
               "Title": "EmployeeService.cs",
               "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\EmployeeServices\\EmployeeService.cs",
               "RelativeDocumentMoniker": "Comany Managment System(MVC).Services\\EmployeeServices\\EmployeeService.cs",
               "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\EmployeeServices\\EmployeeService.cs",
               "RelativeToolTip": "Comany Managment System(MVC).Services\\EmployeeServices\\EmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T21:09:44.063Z",
+              "WhenOpened": "2024-10-20T21:09:44.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Core\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC).Core\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Core\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Comany Managment System(MVC).Core\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:03:58.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 22,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC).Services\\GlobalUsings.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\GlobalUsings.cs",
+              "RelativeToolTip": "Comany Managment System(MVC).Services\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:10:49.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Program.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Program.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Program.cs",
+              "RelativeToolTip": "Comany Managment System(MVC)\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:19:01.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DependentConfiguration.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Repository\\Configurations\\DependentConfiguration.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC).Repository\\Configurations\\DependentConfiguration.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Repository\\Configurations\\DependentConfiguration.cs",
+              "RelativeToolTip": "Comany Managment System(MVC).Repository\\Configurations\\DependentConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:21:22.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Comany Managment System(MVC)\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-21T15:36:11.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "CommonEmployeeVM.cs",
               "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\ViewModels\\Employee\\CommonEmployeeVM.cs",
               "RelativeDocumentMoniker": "Comany Managment System(MVC)\\ViewModels\\Employee\\CommonEmployeeVM.cs",
@@ -227,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 27,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Core\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Comany Managment System(MVC).Core\\Models\\Employee.cs",
@@ -239,7 +516,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 28,
+              "Title": "Dependent.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Core\\Models\\Dependent.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC).Core\\Models\\Dependent.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Core\\Models\\Dependent.cs",
+              "RelativeToolTip": "Comany Managment System(MVC).Core\\Models\\Dependent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:16:04.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Helpers\\MappingProfile.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "Comany Managment System(MVC)\\Helpers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:46:32.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "CommonProjectVM.cs",
               "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\ViewModels\\Project\\CommonProjectVM.cs",
               "RelativeDocumentMoniker": "Comany Managment System(MVC)\\ViewModels\\Project\\CommonProjectVM.cs",
@@ -251,19 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\appsettings.json",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\appsettings.json",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\appsettings.json",
-              "RelativeToolTip": "Comany Managment System(MVC)\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-20T21:22:55.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 29,
               "Title": "CommonDepartmentVM.cs",
               "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\ViewModels\\Department\\CommonDepartmentVM.cs",
               "RelativeDocumentMoniker": "Comany Managment System(MVC)\\ViewModels\\Department\\CommonDepartmentVM.cs",
@@ -275,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 33,
               "Title": "DependentService.cs",
               "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\DependentServices\\DependentService.cs",
               "RelativeDocumentMoniker": "Comany Managment System(MVC).Services\\DependentServices\\DependentService.cs",
@@ -287,7 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 32,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\DepartmentServices\\DepartmentService.cs",
               "RelativeDocumentMoniker": "Comany Managment System(MVC).Services\\DepartmentServices\\DepartmentService.cs",
@@ -299,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 31,
               "Title": "IDepartmentService.cs",
               "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Core\\Interfaces\\IDepartmentService.cs",
               "RelativeDocumentMoniker": "Comany Managment System(MVC).Core\\Interfaces\\IDepartmentService.cs",
@@ -311,7 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 30,
               "Title": "MigrationManager.cs",
               "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Extensions\\MigrationManager.cs",
               "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Extensions\\MigrationManager.cs",
@@ -323,7 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 34,
               "Title": "ConnectionStringExtension.cs",
               "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Extensions\\ConnectionStringExtension.cs",
               "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Extensions\\ConnectionStringExtension.cs",
@@ -335,43 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Core\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC).Core\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Core\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "Comany Managment System(MVC).Core\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T16:03:58.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ApplicationRepoitoriesExtension.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Extensions\\ApplicationRepoitoriesExtension.cs",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Extensions\\ApplicationRepoitoriesExtension.cs",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Extensions\\ApplicationRepoitoriesExtension.cs",
-              "RelativeToolTip": "Comany Managment System(MVC)\\Extensions\\ApplicationRepoitoriesExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T15:09:02.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Repository\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC).Repository\\Repositories\\GenericRepository.cs",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Repository\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "Comany Managment System(MVC).Repository\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADgvw8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T15:08:31.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 37,
               "Title": "SoftDeleteInterceptor.cs",
               "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Repository\\Interceptors\\SoftDeleteInterceptor.cs",
               "RelativeDocumentMoniker": "Comany Managment System(MVC).Repository\\Interceptors\\SoftDeleteInterceptor.cs",
@@ -383,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 35,
               "Title": "DepartmentConfiguration.cs",
               "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Repository\\Configurations\\DepartmentConfiguration.cs",
               "RelativeDocumentMoniker": "Comany Managment System(MVC).Repository\\Configurations\\DepartmentConfiguration.cs",
@@ -395,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 36,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Repository\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Comany Managment System(MVC).Repository\\Data\\ApplicationDbContext.cs",

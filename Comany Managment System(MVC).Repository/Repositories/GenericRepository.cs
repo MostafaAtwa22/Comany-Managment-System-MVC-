@@ -2,6 +2,7 @@
 using Comany_Managment_System_MVC_.Models;
 using Comany_Managment_System_MVC_.Repository.Data;
 using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
 
 namespace Comany_Managment_System_MVC_.Repository.Repositories
 {
@@ -19,10 +20,11 @@ namespace Comany_Managment_System_MVC_.Repository.Repositories
             .AsNoTracking()
             .ToListAsync();
 
-        public async Task<T?> GetById(int id)
-            => await _context.Set<T>()
-            .AsNoTracking()
-            .SingleOrDefaultAsync(i => i.Id == id);
+        public async Task<T?> Find(Expression<Func<T, bool>> criteria)
+        {
+            IQueryable<T> query = _context.Set<T>().AsNoTracking();
+            return await query.SingleOrDefaultAsync(criteria);
+        }
 
         public async Task Create(T model)
         {
@@ -43,7 +45,7 @@ namespace Comany_Managment_System_MVC_.Repository.Repositories
             await Save();
         }
 
-        public async Task Save()
+        private async Task Save()
             => await _context.SaveChangesAsync();
     }
 }

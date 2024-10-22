@@ -7,7 +7,7 @@ namespace Comany_Managment_System_MVC_.Extensions
     {
         public static void AddRepoitoriesServices(this IServiceCollection services)
         {
-            services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            services.AddTransient<IUnitOfWork, UnitOfWork>();
         }
     }
 }

@@ -134,7 +134,10 @@ namespace Comany_Managment_System_MVC_.Repository.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
                         .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Image")
                         .IsRequired()

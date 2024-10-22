@@ -25,9 +25,4 @@
     <ProjectReference Include="..\Comany Managment System(MVC).Services\Comany Managment System(MVC).Services.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Attributes\" />
-    <Folder Include="Settings\" />
-  </ItemGroup>
-
 </Project>
