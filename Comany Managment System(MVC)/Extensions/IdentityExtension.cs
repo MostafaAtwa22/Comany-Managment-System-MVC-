@@ -12,7 +12,8 @@ namespace Comany_Managment_System_MVC_.Extensions
             {
                 options.Password.RequiredLength = 8;
             })
-            .AddEntityFrameworkStores<ApplicationDbContext>();
+            .AddEntityFrameworkStores<ApplicationDbContext>()
+            .AddDefaultTokenProviders();
         }
     }
 }

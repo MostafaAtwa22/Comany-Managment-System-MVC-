@@ -1,5 +1,7 @@
+using Comany_Managment_System_MVC_.EmailServices;
 using Comany_Managment_System_MVC_.Extensions;
 using Comany_Managment_System_MVC_.Helpers;
+using Comany_Managment_System_MVC_.ViewModels.Account;
 
 namespace Comany_Managment_System_MVC_
 {
@@ -15,8 +17,12 @@ namespace Comany_Managment_System_MVC_
             builder.AddConnectionStringService();
 
             builder.Services.AddRepoitoriesServices();
-            
+
             builder.Services.AddIdentities();
+            
+            builder.Services.Configure<MailSettingsVM>(builder.Configuration.GetSection("MailSettings"));
+            
+            builder.Services.AddTransient<IEmailSettings, EmailSettings>();
 
             builder.Services.AddAutoMapper(typeof(MappingProfile));
 

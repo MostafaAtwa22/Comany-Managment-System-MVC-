@@ -26,12 +26,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/programming/DEPI/Comany Managment System(MVC)/Comany Managment System(MVC)/Views/Account/CheckYourInbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGVja1lvdXJJbmJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/DEPI/Comany Managment System(MVC)/Comany Managment System(MVC)/Views/Account/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/programming/DEPI/Comany Managment System(MVC)/Comany Managment System(MVC)/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/programming/DEPI/Comany Managment System(MVC)/Comany Managment System(MVC)/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/DEPI/Comany Managment System(MVC)/Comany Managment System(MVC)/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/programming/DEPI/Comany Managment System(MVC)/Comany Managment System(MVC)/Views/Departments/Details.cshtml]

@@ -274,3 +274,6 @@ D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\bi
 D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\bin\Debug\net8.0\libman.json
+D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\bin\Debug\net8.0\MailKit.dll
+D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\bin\Debug\net8.0\MimeKit.dll

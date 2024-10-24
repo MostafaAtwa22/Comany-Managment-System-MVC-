@@ -20,5 +20,8 @@ namespace Comany_Managment_System_MVC_.ViewModels.Account
         [Compare("Password", ErrorMessage = "The Password is not match")]
         [Display(Name = "Confirm Password")]
         public string ConfirmPassword { get; set; } = string.Empty;
+
+        [Required]
+        public string Role { get; set; } = string.Empty;
     }
 }

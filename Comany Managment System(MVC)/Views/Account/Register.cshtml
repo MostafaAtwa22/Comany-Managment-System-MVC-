@@ -15,6 +15,7 @@
                         <h3 class="mb-5">Sign Up</h3>
 
                         <form asp-action="Register">
+                            <div asp-validation-summary="All" class="text-danger"></div>
                             <!-- Email input -->
                             <div data-mdb-input-init class="form-outline mb-4">
                                 <label class="form-label" asp-for="UserName" style="text-align: left; width: 100%;"></label>
@@ -42,9 +43,27 @@
                                 <input asp-for="ConfirmPassword" type="password" class="form-control form-control-lg" placeholder="Confirm Password" />
                                 <span asp-validation-for="ConfirmPassword" class="text-danger" style="display: block; text-align: left;"></span>
                             </div>
-
+                            <!-- Role selection -->
+                            <div data-mdb-input-init class="form-outline mb-4">
+                                <label class="form-label" asp-for="Role" style="text-align: left; width: 100%;">Role</label>
+                                <select asp-for="Role" class="form-control form-control-lg">
+                                    <option value="">Select Role</option>
+                                    <option value="@RoleConsts.Admin">@RoleConsts.Admin</option>
+                                    <option value="@RoleConsts.Manager">@RoleConsts.Manager</option>
+                                    <option value="@RoleConsts.Employee">@RoleConsts.Employee</option>
+                                </select>
+                                <span asp-validation-for="Role" class="text-danger" style="display: block; text-align: left;"></span>
+                            </div>
+                            <div class="mt-4">
+                                <p>
+                                    <i class="bi-person"></i> Alread have an account ?
+                                    <a asp-action="Login" class="text-bg-info" style="font-size: 1.1rem;text-decoration: none;">
+                                        Login 
+                                    </a>
+                                </p>
+                            </div>
                             <!-- Login button -->
-                            <button data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-lg btn-block" type="submit">SignUp</button>
+                            <button data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-lg btn-block" type="submit">Sign Up</button>
                         </form>
                     </div>
                 </div>

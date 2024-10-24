@@ -19,9 +19,9 @@
 
                             <!-- Email input -->
                             <div data-mdb-input-init class="form-outline mb-4">
-                                <label class="form-label" asp-for="Email" style="text-align: left; width: 100%;">Email</label>
-                                <input asp-for="Email" class="form-control form-control-lg" placeholder="Email" />
-                                <span asp-validation-for="Email" class="text-danger" style="display: block; text-align: left;"></span>
+                                <label class="form-label" asp-for="EmailOrUserName" style="text-align: left; width: 100%;">Email Or UserName</label>
+                                <input asp-for="EmailOrUserName" class="form-control form-control-lg" placeholder="Email Or UserName" />
+                                <span asp-validation-for="EmailOrUserName" class="text-danger" style="display: block; text-align: left;"></span>
                             </div>
 
                             <!-- Password input -->
@@ -52,6 +52,24 @@
                                 type="submit">
                             <i class="bi-facebook"></i> Sign in with Facebook
                         </button>
+
+                        <!-- Forget Password Link -->
+                        <div class="mt-4">
+                            <p>
+                                <a asp-action="ForgetPassword" class="text-primary" style="font-size: 1.1rem;text-decoration: none;">
+                                    <i class="bi-lock"></i> Forgot your password?
+                                </a>
+                            </p>
+                        </div>
+
+                        <div class="mt-4">
+                            <p>
+                                <i class="bi-door-open"></i> Don't have an email?
+                                <a asp-action="Register" class="text-bg-info" style="font-size: 1.1rem;text-decoration: none;">
+                                    Register
+                                </a>
+                            </p>
+                        </div>
 
                     </div>
                 </div>
