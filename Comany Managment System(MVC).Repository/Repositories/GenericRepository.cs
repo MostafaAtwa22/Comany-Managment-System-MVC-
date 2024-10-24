@@ -1,6 +1,8 @@
 ﻿using Comany_Managment_System_MVC_.Core.Interfaces;
+using Comany_Managment_System_MVC_.Core.Spercification;
 using Comany_Managment_System_MVC_.Models;
 using Comany_Managment_System_MVC_.Repository.Data;
+using Comany_Managment_System_MVC_.Repository.Specification;
 using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 
@@ -20,9 +22,19 @@ namespace Comany_Managment_System_MVC_.Repository.Repositories
             .AsNoTracking()
             .ToListAsync();
 
+        public async Task<IEnumerable<T>> GetAllWithSpecification(ISpecifications<T> specifications)
+            => await ApplaySpecification(specifications).AsNoTracking().ToListAsync();
+
         public async Task<T?> Find(Expression<Func<T, bool>> criteria)
         {
             IQueryable<T> query = _context.Set<T>().AsNoTracking();
+            return await query.SingleOrDefaultAsync(criteria);
+        }
+
+        public async Task<T?> FindWithSpecification(Expression<Func<T, bool>> criteria, 
+            ISpecifications<T> specifications)
+        {
+            IQueryable<T> query = ApplaySpecification(specifications).AsNoTracking();
             return await query.SingleOrDefaultAsync(criteria);
         }
 
@@ -35,7 +47,6 @@ namespace Comany_Managment_System_MVC_.Repository.Repositories
         public async Task Update(T model)
         {
             _context.Set<T>().Update(model);
-            _context.Entry(model).State = EntityState.Modified;
             await Save();
         }
 
@@ -47,5 +58,8 @@ namespace Comany_Managment_System_MVC_.Repository.Repositories
 
         private async Task Save()
             => await _context.SaveChangesAsync();
+
+        private IQueryable<T> ApplaySpecification(ISpecifications<T> specifications)
+            => SpecificationEvaluator<T>.GetQuery(_context.Set<T>().AsNoTracking(), specifications);
     }
 }

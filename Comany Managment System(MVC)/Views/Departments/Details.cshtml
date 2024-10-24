@@ -1,0 +1,25 @@
+﻿@model Department
+
+@{
+    ViewData["Title"] = Model.Name;
+    Layout = "_DataLayout";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Department Details</h2>
+    <div class="card">
+        <div class="card-header bg-primary text-white">
+            <h5 class="card-title">@Model.Name</h5>
+        </div>
+        <div class="card-body">
+            <h6 class="card-subtitle mb-2 text-muted">Location: @Model.Location</h6>
+            <p class="card-text">
+                <strong>Manager:</strong> @(Model.Manager != null ? Model.Manager.Name : "No Manager Assigned")
+            </p>
+        </div>
+        <div class="card-footer text-end">
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
+</div>

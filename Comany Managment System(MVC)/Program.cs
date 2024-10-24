@@ -15,6 +15,8 @@ namespace Comany_Managment_System_MVC_
             builder.AddConnectionStringService();
 
             builder.Services.AddRepoitoriesServices();
+            
+            builder.Services.AddIdentities();
 
             builder.Services.AddAutoMapper(typeof(MappingProfile));
 
