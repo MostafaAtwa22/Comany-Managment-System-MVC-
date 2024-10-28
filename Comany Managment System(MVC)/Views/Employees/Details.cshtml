@@ -1,0 +1,57 @@
+﻿@model Employee
+
+@{
+    ViewData["Title"] = Model.Name;
+    Layout = "~/Views/Shared/_DataLayout.cshtml";
+}
+
+<div class="container mt-5 mb-lg-5">
+    <div class="card border-light rounded-3 shadow-lg overflow-hidden" style="background-color: #f8f9fa;">
+        <div class="card-header text-center" style="background-color: #343a40; color: white;">
+            <h2 class="mb-0" style="color:white;">@Model.Name</h2>
+            <span style="color:darkorange; font-size:20px;">@Model.Department?.Name</span>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-4 text-center">
+                    <img src="@($"{FileSettings.ImagesPath}/Employees/{Model.Image}")"
+                         alt="@Model.Name"
+                         class="img-fluid rounded-circle mb-3"
+                         style="width: 200px; height: 200px; object-fit: cover;" />
+                </div>
+                <div class="col-md-8">
+                    <h4 class="fw-bold">Details</h4>
+                    <div class="d-flex align-items-center mb-2">
+                        <span class="badge bg-primary fs-6 me-2">Age: @Model.Age</span>
+                        <span class="badge bg-primary fs-6 me-2">Salary: @Model.Salary</span>
+                        <span class="badge bg-primary fs-6 me-2">Email: @Model.Email</span>
+                        <span class="badge bg-primary fs-6 me-2">Address: @Model.Address</span>
+                        <span class="badge bg-primary fs-6 me-2">Gender: @Model.Gender</span>
+                    </div>
+                    <h4 class="mt-4">Projects Assigned:</h4>
+                    <div class="d-flex flex-wrap">
+                        @if (Model.Projects != null && Model.Projects.Any())
+                        {
+                            foreach (Project project in Model.Projects)
+                            {
+                                <span class="badge bg-primary fs-5 me-2 mb-2">@project.Name</span>
+                            }
+                        }
+                        else
+                        {
+                            <span class="badge bg-secondary fs-5 mb-2">No Projects Assigned</span>
+                        }
+                    </div>
+                </div>
+                <div class="card-footer d-flex justify-content-around">
+                    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning mb-2" style="width: 40%; padding:7px;">
+                        <i class="bi bi-pencil-square"></i> Edit
+                    </a>
+                    <a asp-action="Index" class="btn btn-secondary mb-2" style="width: 40%; padding:7px;">
+                        <i class="bi bi-arrow-return-left"></i> Back to Employees
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,108 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.employee-image {
+    width: 90px; /* Fixed width */
+    height: 90px; /* Fixed height */
+    object-fit: cover; /* Ensure the image covers the area without distortion */
+    border-radius: 50%; /* Optional: make the image circular */
+}
+
+.table {
+    background-color: #ffffff; /* Table background color */
+}
+
+    .table th {
+        background-color: #3f414d; /* Header background color */
+        color: #ffffff; /* Header text color */
+    }
+
+    .table td {
+        vertical-align: middle; /* Center align content vertically */
+    }
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f8f9fa; /* Alternate row color */
+}
+
+.table-bordered th, .table-bordered td {
+    border: 1px solid #333; /* Custom border color */
+}
+/* Card Layout Styles */
+.department-card {
+    border: none; /* No border */
+    border-radius: 0.5rem; /* Rounded corners */
+    transition: transform 0.2s, box-shadow 0.2s; /* Smooth scaling and shadow effect */
+    height: 300px; /* Set a fixed height for consistency */
+}
+
+    .department-card:hover {
+        transform: scale(1.1); /* Increase size on hover */
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Shadow effect on hover */
+    }
+
+.card-title {
+    font-family: 'Poppins', sans-serif; /* Custom font for card titles */
+    font-size: 1.5rem; /* Increased font size */
+}
+
+.card-text {
+    color: #666; /* Gray color for text */
+    font-size: 1rem; /* Increased text size */
+}
+
+/* Button styles in card */
+.btn {
+    width: 100%; /* Full width buttons */
+    margin-top: 10px; /* Spacing above buttons */
+}
+/* Add this to your CSS file or <style> section */
+.button-half-width {
+    width: 50%;
+    margin: 0 auto; /* Center the button */
+}
+.card {
+    border-radius: 0.5rem; /* Rounded corners */
+}
+
+.card-header {
+    font-weight: bold; /* Bold header */
+}
+
+.card-subtitle {
+    font-weight: 600; /* Slightly bolder subtitle */
+}
+
+.search {
+    width: 60%;
+    margin-right: 10px;
+}
+
+.counter-box {
+    display: inline-block;
+    padding: 8px 12px;
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    color: #6c757d;
+}

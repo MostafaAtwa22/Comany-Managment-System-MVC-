@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Comany Managment System(MVC).props" />
+</Project>

@@ -1,0 +1,16 @@
+﻿global using AutoMapper;
+global using Comany_Managment_System_MVC_.Core.Interfaces;
+global using Comany_Managment_System_MVC_.Services.DepartmentServices;
+global using Comany_Managment_System_MVC_.Services.EmployeeServices;
+global using Comany_Managment_System_MVC_.Core.Models;
+global using Comany_Managment_System_MVC_.Services.ViewModels.Departments;
+global using Comany_Managment_System_MVC_.Services.ViewModels.Dependents;
+global using Comany_Managment_System_MVC_.Services.ViewModels.Account;
+global using Comany_Managment_System_MVC_.Services.ViewModels.Employees;
+global using Comany_Managment_System_MVC_.Services.ViewModels.Projects;
+global using Microsoft.AspNetCore.Authorization;
+global using Microsoft.AspNetCore.Mvc;
+global using Comany_Managment_System_MVC_.EmailServices;
+global using Microsoft.AspNetCore.Identity;
+global using System.ComponentModel.DataAnnotations;
+global using System.Security.Claims;

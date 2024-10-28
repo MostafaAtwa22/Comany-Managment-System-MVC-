@@ -1,0 +1,42 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap-icons@1.11.3",
+      "destination": "wwwroot/bootstrap-icons/",
+      "files": [
+        "font/bootstrap-icons.css",
+        "font/bootstrap-icons.min.css"
+      ]
+    },
+    {
+      "library": "sweetalert2@11.14.4",
+      "destination": "wwwroot/sweetalert2/",
+      "files": [
+        "sweetalert2.min.js",
+        "sweetalert2.min.css",
+        "sweetalert2.esm.min.js"
+      ]
+    },
+    {
+      "library": "bootstrap@5.3.3",
+      "destination": "wwwroot/bootstrap/",
+      "files": [
+        "js/bootstrap.min.js",
+        "scss/bootstrap.scss",
+        "scss/bootstrap-grid.scss",
+        "scss/bootstrap-reboot.scss",
+        "scss/bootstrap-utilities.scss"
+      ]
+    },
+    {
+      "library": "select2@4.0.13",
+      "destination": "wwwroot/lib/select2/",
+      "files": [
+        "js/select2.min.js",
+        "css/select2.min.css"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+﻿@model Department
+
+@{
+    ViewData["Title"] = Model.Name;
+    Layout = "_DataLayout";
+}
+
+<div class="container mt-5 mb-5">
+    <h2 class="text-center mb-4">Department Details</h2>
+    <div class="card shadow-lg">
+        <div class="card-header bg-primary text-white text-center">
+            <h5 class="card-title mb-0">@Model.Name</h5>
+        </div>
+        <div class="card-body">
+            <div class="mb-3">
+                <h6 class="card-subtitle mb-1 text-info">Location:</h6>
+                <p class="card-text">@Model.Location</p>
+            </div>
+            <div class="mb-3">
+                <h6 class="card-subtitle mb-1 text-info">Manager:</h6>
+                    <p class="card-text">@Model.Manager?.Name</p>
+            </div>
+            <div>
+                <h6 class="card-subtitle mb-1 text-info">Description:</h6>
+                <p class="card-text">@Model.Description</p>
+            </div>
+        </div>
+        <div class="card-footer d-flex justify-content-around">
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning mb-2" style="width: 40%; padding:7px;">
+                <i class="bi bi-pencil-square"></i> Edit
+            </a>
+            <a asp-action="Index" class="btn btn-secondary mb-2" style="width: 40%; padding:7px;">
+                <i class="bi bi-arrow-return-left"></i> Back to Departments</a>
+        </div>
+    </div>
+</div>

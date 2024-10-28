@@ -1,0 +1,77 @@
+﻿@model RegisterUserVM
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "_Login";
+}
+
+<section class="vh-100" style="background-color: #508bfc;">
+    <div class="container py-5 h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-12 col-md-8 col-lg-6 col-xl-5">
+                <div class="card shadow-2-strong" style="border-radius: 1rem;">
+                    <div class="card-body p-5 text-center">
+
+                        <h3 class="mb-5">Sign Up</h3>
+
+                        <form asp-action="Register">
+                            <div asp-validation-summary="All" class="text-danger"></div>
+                            <!-- Email input -->
+                            <div data-mdb-input-init class="form-outline mb-4">
+                                <label class="form-label" asp-for="UserName" style="text-align: left; width: 100%;"></label>
+                                <input asp-for="UserName" class="form-control form-control-lg" placeholder="UserName" />
+                                <span asp-validation-for="UserName" class="text-danger" style="display: block; text-align: left;"></span>
+                            </div>
+                            
+                            <!-- Email input -->
+                            <div data-mdb-input-init class="form-outline mb-4">
+                                <label class="form-label" asp-for="Email" style="text-align: left; width: 100%;">Email</label>
+                                <input asp-for="Email" class="form-control form-control-lg" placeholder="Email" />
+                                <span asp-validation-for="Email" class="text-danger" style="display: block; text-align: left;"></span>
+                            </div>
+
+                            <!-- Password input -->
+                            <div data-mdb-input-init class="form-outline mb-4">
+                                <label class="form-label" asp-for="Password" style="text-align: left; width: 100%;">Password</label>
+                                <input asp-for="Password" type="password" class="form-control form-control-lg" placeholder="Password" />
+                                <span asp-validation-for="Password" class="text-danger" style="display: block; text-align: left;"></span>
+                            </div>
+
+                            <!-- Password input -->
+                            <div data-mdb-input-init class="form-outline mb-4">
+                                <label class="form-label" asp-for="ConfirmPassword" style="text-align: left; width: 100%;"></label>
+                                <input asp-for="ConfirmPassword" type="password" class="form-control form-control-lg" placeholder="Confirm Password" />
+                                <span asp-validation-for="ConfirmPassword" class="text-danger" style="display: block; text-align: left;"></span>
+                            </div>
+                            <!-- Role selection -->
+                            <div data-mdb-input-init class="form-outline mb-4">
+                                <label class="form-label" asp-for="Role" style="text-align: left; width: 100%;">Role</label>
+                                <select asp-for="Role" class="form-control form-control-lg">
+                                    <option value="">Select Role</option>
+                                    <option value="@RoleConsts.Admin">@RoleConsts.Admin</option>
+                                    <option value="@RoleConsts.Manager">@RoleConsts.Manager</option>
+                                    <option value="@RoleConsts.Employee">@RoleConsts.Employee</option>
+                                </select>
+                                <span asp-validation-for="Role" class="text-danger" style="display: block; text-align: left;"></span>
+                            </div>
+                            <div class="mt-4">
+                                <p>
+                                    <i class="bi-person"></i> Alread have an account ?
+                                    <a asp-action="Login" class="text-bg-info" style="font-size: 1.1rem;text-decoration: none;">
+                                        Login 
+                                    </a>
+                                </p>
+                            </div>
+                            <!-- Login button -->
+                            <button data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-lg btn-block" type="submit">Sign Up</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
