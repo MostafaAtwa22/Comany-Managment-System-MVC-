@@ -21,7 +21,7 @@
         }).then((result) => {
             if (result.isConfirmed) {
                 $.ajax({
-                    url: `/Departments/Delete/${btn.data('id')}`, 
+                    url: `/Departments/Delete/${btn.data('id')}`,
                     method: 'DELETE',
                     success: function () {
                         swal.fire(
@@ -30,7 +30,7 @@
                             'success'
                         );
 
-                        btn.parents('tr').fadeOut(); 
+                        btn.closest('.result-item').fadeOut();
                     },
                     error: function () {
                         swal.fire(

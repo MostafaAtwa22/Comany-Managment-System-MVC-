@@ -3,19 +3,54 @@
     Layout = "_Login";
 }
 
-<div class="container" style="margin-top: 50px;" data-aos="fade-up">
-    <div class="row justify-content-center">
-        <div class="col-md-8 login-container p-4">
-            <h1 class="text-center" style="color: #333;">Check Your Inbox</h1>
-            <hr />
-            <div class="alert alert-info text-center" role="alert" style="font-size: 1.2rem;">
-                A password reset link has been sent to your email. Please check your inbox.
-            </div>
-            <div class="text-center">
-                <a href="https://mail.google.com/mail/u/0/#inbox" class="btn btn-primary btn-lg" target="_blank">
-                    Go to Your Inbox
-                </a>
+<div class="d-flex justify-content-center align-items-center vh-100">
+    <div class="container">
+        <div class="row justify-content-center align-items-stretch">
+            <div class-md-6>
+                <!-- Increased column size -->
+                <div class="card shadow-sm p-5 h-100">
+                    <!-- Increased padding -->
+                    <h3 class="text-primary mb-4">Check Your Inbox</h3>
+                    <hr />
+                    <div class="alert alert-info text-center" role="alert" style="font-size: 1.2rem;">
+                        A password reset link has been sent to your email. Please check your inbox.
+                    </div>
+                    <div class="text-center">
+                        <a href="https://mail.google.com/mail/u/0/#inbox" class="btn btn-warning btn-lg" target="_blank">
+                            Go to Your Inbox
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 </div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <style>
+        body {
+            background-color: #333; /* Match the login view background */
+        }
+
+        .card {
+            border-radius: 1rem; /* Rounded corners for the card */
+            min-height: 300px; /* Optional: Set a minimum height for the card */
+        }
+
+        .text-primary {
+            color: #1a1a1a; /* Primary text color */
+        }
+
+        .btn-warning {
+            background-color: #ff6600; /* Custom warning button color */
+            border-color: #ff6600;
+            color: #fff;
+        }
+
+        .alert-info {
+            background-color: #e9f5ff; /* Light blue background for alert */
+            border-color: #b3e0ff; /* Light blue border for alert */
+        }
+    </style>
+}

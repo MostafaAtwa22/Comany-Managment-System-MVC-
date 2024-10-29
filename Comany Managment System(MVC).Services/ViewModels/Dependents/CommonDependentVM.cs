@@ -1,5 +1,4 @@
-﻿
-namespace Comany_Managment_System_MVC_.Services.ViewModels.Dependents
+﻿namespace Comany_Managment_System_MVC_.Services.ViewModels.Dependents
 {
     public class CommonDependentVM
     {

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "C1c83wpD4/TAc5gvUCkIT9KCVa4e5xRcfud/NIpgjmE=",
+  "Hash": "YaeeL+I3QF4a7Rku0F7/MBZhUj6IcTam6FXG55/41yU=",
   "Source": "Comany Managment System(MVC)",
   "BasePath": "_content/Comany Managment System(MVC)",
   "Mode": "Default",
@@ -169,12 +169,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Employees\\64e7728c-4d7f-4a19-9223-036d478b0798.jpg"
     },
     {
-      "Identity": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\7b533a0b-e1d7-4855-9c94-9a779e9ff75a.jpg",
+      "Identity": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\7110bf12-99f1-496e-aa26-34fbad6d3733.jpg",
       "SourceId": "Comany Managment System(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\",
       "BasePath": "_content/Comany Managment System(MVC)",
-      "RelativePath": "assets/img/Employees/7b533a0b-e1d7-4855-9c94-9a779e9ff75a.jpg",
+      "RelativePath": "assets/img/Employees/7110bf12-99f1-496e-aa26-34fbad6d3733.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +185,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Employees\\7b533a0b-e1d7-4855-9c94-9a779e9ff75a.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\Employees\\7110bf12-99f1-496e-aa26-34fbad6d3733.jpg"
+    },
+    {
+      "Identity": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\7dc1f018-3818-4378-879e-8b4987e4acb5.jpg",
+      "SourceId": "Comany Managment System(MVC)",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\",
+      "BasePath": "_content/Comany Managment System(MVC)",
+      "RelativePath": "assets/img/Employees/7dc1f018-3818-4378-879e-8b4987e4acb5.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\Employees\\7dc1f018-3818-4378-879e-8b4987e4acb5.jpg"
     },
     {
       "Identity": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\7f233b29-a3d8-44f4-b23b-346517b66529.jpg",
@@ -205,6 +224,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\Employees\\7f233b29-a3d8-44f4-b23b-346517b66529.jpg"
+    },
+    {
+      "Identity": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\8e3be9bd-44b6-4307-9291-6ed0405d1d83.jpg",
+      "SourceId": "Comany Managment System(MVC)",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\",
+      "BasePath": "_content/Comany Managment System(MVC)",
+      "RelativePath": "assets/img/Employees/8e3be9bd-44b6-4307-9291-6ed0405d1d83.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\Employees\\8e3be9bd-44b6-4307-9291-6ed0405d1d83.jpg"
     },
     {
       "Identity": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\f7d91f7c-925a-4553-a5cc-f2a339ffa670.png",
@@ -1801,6 +1839,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Identity": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\css\\animation.css",
+      "SourceId": "Comany Managment System(MVC)",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\",
+      "BasePath": "_content/Comany Managment System(MVC)",
+      "RelativePath": "css/animation.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\animation.css"
     },
     {
       "Identity": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\css\\site.css",

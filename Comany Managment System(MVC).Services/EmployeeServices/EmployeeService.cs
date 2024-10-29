@@ -1,14 +1,7 @@
 ﻿using AutoMapper;
-using Comany_Managment_System_MVC_.Core.Enums;
 using Comany_Managment_System_MVC_.Core.Spercification;
-using Comany_Managment_System_MVC_.Core.Models;
-using Comany_Managment_System_MVC_.Repository.Data;
-using Comany_Managment_System_MVC_.Services.Settings;
 using Comany_Managment_System_MVC_.Services.ViewModels.Employees;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 
 

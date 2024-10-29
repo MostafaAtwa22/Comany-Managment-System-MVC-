@@ -5,73 +5,104 @@
     Layout = "_Login";
 }
 
-<section class="vh-100" style="background-color: #508bfc;">
-    <div class="container py-5 h-100">
-        <div class="row d-flex justify-content-center align-items-center h-100">
-            <div class="col-12 col-md-8 col-lg-6 col-xl-5">
-                <div class="card shadow-2-strong" style="border-radius: 1rem;">
-                    <div class="card-body p-5 text-center">
+<div class="d-flex justify-content-center align-items-center vh-100">
+    <div class="container">
+        <div class="row justify-content-center align-items-stretch">
+            <div class="col-md-6">
+                <!-- Changed from col-md-5 to col-md-6 -->
+                <div class="card shadow-sm p-4 h-100">
+                    <h3 class="text-primary mb-4">Sign Up</h3>
 
-                        <h3 class="mb-5">Sign Up</h3>
+                    <form asp-action="Register">
+                        <!-- UserName input -->
+                        <div class="form-group mb-3">
+                            <label asp-for="UserName" class="form-label">UserName</label>
+                            <input asp-for="UserName" class="form-control" placeholder="UserName" />
+                            <span asp-validation-for="UserName" class="text-danger"></span>
+                        </div>
 
-                        <form asp-action="Register">
-                            <div asp-validation-summary="All" class="text-danger"></div>
-                            <!-- Email input -->
-                            <div data-mdb-input-init class="form-outline mb-4">
-                                <label class="form-label" asp-for="UserName" style="text-align: left; width: 100%;"></label>
-                                <input asp-for="UserName" class="form-control form-control-lg" placeholder="UserName" />
-                                <span asp-validation-for="UserName" class="text-danger" style="display: block; text-align: left;"></span>
-                            </div>
-                            
-                            <!-- Email input -->
-                            <div data-mdb-input-init class="form-outline mb-4">
-                                <label class="form-label" asp-for="Email" style="text-align: left; width: 100%;">Email</label>
-                                <input asp-for="Email" class="form-control form-control-lg" placeholder="Email" />
-                                <span asp-validation-for="Email" class="text-danger" style="display: block; text-align: left;"></span>
-                            </div>
+                        <!-- Email input -->
+                        <div class="form-group mb-3">
+                            <label asp-for="Email" class="form-label">Email</label>
+                            <input asp-for="Email" class="form-control" placeholder="Email" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
 
-                            <!-- Password input -->
-                            <div data-mdb-input-init class="form-outline mb-4">
-                                <label class="form-label" asp-for="Password" style="text-align: left; width: 100%;">Password</label>
-                                <input asp-for="Password" type="password" class="form-control form-control-lg" placeholder="Password" />
-                                <span asp-validation-for="Password" class="text-danger" style="display: block; text-align: left;"></span>
-                            </div>
+                        <!-- Password input -->
+                        <div class="form-group mb-3">
+                            <label asp-for="Password" class="form-label">Password</label>
+                            <input asp-for="Password" type="password" class="form-control" placeholder="Password" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
 
-                            <!-- Password input -->
-                            <div data-mdb-input-init class="form-outline mb-4">
-                                <label class="form-label" asp-for="ConfirmPassword" style="text-align: left; width: 100%;"></label>
-                                <input asp-for="ConfirmPassword" type="password" class="form-control form-control-lg" placeholder="Confirm Password" />
-                                <span asp-validation-for="ConfirmPassword" class="text-danger" style="display: block; text-align: left;"></span>
-                            </div>
-                            <!-- Role selection -->
-                            <div data-mdb-input-init class="form-outline mb-4">
-                                <label class="form-label" asp-for="Role" style="text-align: left; width: 100%;">Role</label>
-                                <select asp-for="Role" class="form-control form-control-lg">
-                                    <option value="">Select Role</option>
-                                    <option value="@RoleConsts.Admin">@RoleConsts.Admin</option>
-                                    <option value="@RoleConsts.Manager">@RoleConsts.Manager</option>
-                                    <option value="@RoleConsts.Employee">@RoleConsts.Employee</option>
-                                </select>
-                                <span asp-validation-for="Role" class="text-danger" style="display: block; text-align: left;"></span>
-                            </div>
-                            <div class="mt-4">
-                                <p>
-                                    <i class="bi-person"></i> Alread have an account ?
-                                    <a asp-action="Login" class="text-bg-info" style="font-size: 1.1rem;text-decoration: none;">
-                                        Login 
-                                    </a>
-                                </p>
-                            </div>
-                            <!-- Login button -->
-                            <button data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-lg btn-block" type="submit">Sign Up</button>
-                        </form>
-                    </div>
+                        <!-- Confirm Password input -->
+                        <div class="form-group mb-3">
+                            <label asp-for="ConfirmPassword" class="form-label">Confirm Password</label>
+                            <input asp-for="ConfirmPassword" type="password" class="form-control" placeholder="Confirm Password" />
+                            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                        </div>
+
+                        <!-- Role selection -->
+                        <div class="form-group mb-3">
+                            <label asp-for="Role" class="form-label">Role</label>
+                            <select asp-for="Role" class="form-control">
+                                <option value="">Select Role</option>
+                                <option value="@RoleConsts.Admin">@RoleConsts.Admin</option>
+                                <option value="@RoleConsts.Manager">@RoleConsts.Manager</option>
+                                <option value="@RoleConsts.Employee">@RoleConsts.Employee</option>
+                            </select>
+                            <span asp-validation-for="Role" class="text-danger"></span>
+                        </div>
+
+                        <div class="text-center mb-3">
+                            <p>Already have an account? <a asp-action="Login" class="text-primary">Login</a></p>
+                        </div>
+
+                        <!-- Register button -->
+                        <button type="submit" class="btn btn-warning btn-block mb-3">Sign Up</button>
+                    </form>
                 </div>
+            </div>
+            <div class="col-md-6 d-flex justify-content-center align-items-stretch">
+                <!-- Changed from col-md-5 to col-md-6 -->
+                <img src="~/assets/img/DEPI.jpeg" class="img-fluid h-100 rounded-end" alt="Welcome Image" style="margin: 0; padding: 0; margin-left:-62px;">
             </div>
         </div>
     </div>
-</section>
+</div>
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
+    <style>
+        body {
+            background-color: #404356; /* Background color to match login */
+        }
+
+        .card {
+            border-radius: 1rem 0 0 1rem; /* Adjusting card radius */
+        }
+
+        .btn-warning {
+            background-color: #ff6600; /* Button color */
+            border-color: #ff6600;
+            color: #fff;
+        }
+
+        .text-primary {
+            color: #1a1a1a; /* Primary text color */
+        }
+
+        img {
+            max-width: 100%;
+            height: 100%;
+            object-fit: cover;
+            margin-left: 0;
+            padding: 0;
+        }
+
+        .rounded-end {
+            border-top-right-radius: 1rem;
+            border-bottom-right-radius: 1rem; /* Adjusting image radius */
+        }
+    </style>
 }

@@ -68,6 +68,12 @@ namespace Comany_Managment_System_MVC_.Controllers
             {
                 model.Departments = await _departmentService.GetSelectList();
                 model.Projects = await _projectService.GetSelectList();
+                model.GenderSelectList = Enum.GetValues(typeof(Gender)).Cast<Gender>()
+                            .Select(g => new SelectListItem
+                            {
+                                Value = ((int)g).ToString(),
+                                Text = g.ToString()
+                            }).ToList();
                 return View(model);
             }
 
@@ -138,6 +144,14 @@ namespace Comany_Managment_System_MVC_.Controllers
         {
             var isDeleted = await _employeeService.Delete(id);
             return isDeleted ? Ok() : BadRequest();
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> IsEmailUnique(string Email, int? Id)
+        {
+            var employee = await _employeeService.Find(e => e.Email == Email && e.Id != Id);
+            bool isUnique = employee == null;
+            return Json(isUnique);
         }
     }
 }

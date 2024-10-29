@@ -48,7 +48,13 @@ namespace Comany_Managment_System_MVC_.Services.DepartmentServices
 
             await _unitOfWork.Departments.Create(department);
 
-            var employee = await _unitOfWork.Employees.Find(e => e.Id == model.ManagerId);
+            if (department.ManagerId is null)
+                return;
+
+            var specification = new EmployeeWithManagerSpecification();
+            var employee = await _unitOfWork.Employees
+                .FindWithSpecificationWithTrack(d => d.Id == model.ManagerId, specification);
+
             employee!.DepartmentId = department.Id;
 
             await _unitOfWork.Employees.Update(employee);

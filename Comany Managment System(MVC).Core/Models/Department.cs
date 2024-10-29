@@ -16,7 +16,7 @@ namespace Comany_Managment_System_MVC_.Core.Models
 
         public int? ManagerId { get; set; }
 
-        public virtual Employee Manager { get; set; } = default!;
+        public virtual Employee? Manager { get; set; } = default!;
 
         public virtual ICollection<Project> Projects { get; set; } = new List<Project>();
     }

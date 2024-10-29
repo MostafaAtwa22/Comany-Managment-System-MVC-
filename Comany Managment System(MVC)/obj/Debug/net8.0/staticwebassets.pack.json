@@ -25,12 +25,20 @@
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\64e7728c-4d7f-4a19-9223-036d478b0798.jpg"
     },
     {
-      "Id": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\7b533a0b-e1d7-4855-9c94-9a779e9ff75a.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\Employees\\7b533a0b-e1d7-4855-9c94-9a779e9ff75a.jpg"
+      "Id": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\7110bf12-99f1-496e-aa26-34fbad6d3733.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Employees\\7110bf12-99f1-496e-aa26-34fbad6d3733.jpg"
+    },
+    {
+      "Id": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\7dc1f018-3818-4378-879e-8b4987e4acb5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Employees\\7dc1f018-3818-4378-879e-8b4987e4acb5.jpg"
     },
     {
       "Id": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\7f233b29-a3d8-44f4-b23b-346517b66529.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\7f233b29-a3d8-44f4-b23b-346517b66529.jpg"
+    },
+    {
+      "Id": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\8e3be9bd-44b6-4307-9291-6ed0405d1d83.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Employees\\8e3be9bd-44b6-4307-9291-6ed0405d1d83.jpg"
     },
     {
       "Id": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\f7d91f7c-925a-4553-a5cc-f2a339ffa670.png",
@@ -371,6 +379,10 @@
     {
       "Id": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\css\\animation.css",
+      "PackagePath": "staticwebassets\\css\\animation.css"
     },
     {
       "Id": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\css\\site.css",

@@ -1,4 +1,6 @@
 ﻿
+using Microsoft.AspNetCore.Mvc;
+
 namespace Comany_Managment_System_MVC_.Services.ViewModels.Employees
 {
     public class CommonEmployeeVM
@@ -9,6 +11,10 @@ namespace Comany_Managment_System_MVC_.Services.ViewModels.Employees
 
         [Required]
         [MaxLength(50)]
+        [Remote(action: "IsEmailUnique",
+            controller: "Employees",
+            AdditionalFields = "Id",
+            ErrorMessage = "This email is already used.")]
         public string Email { get; set; } = null!;
 
         [Required]

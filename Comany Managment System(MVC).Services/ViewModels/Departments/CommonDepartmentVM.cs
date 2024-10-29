@@ -7,6 +7,10 @@ namespace Comany_Managment_System_MVC_.Services.ViewModels.Departments
     {
         [Required]
         [MaxLength(50)]
+        [Remote(action: "IsNameUnique",
+            controller: "Departments",
+            AdditionalFields = "Id",
+            ErrorMessage = "This Department is already exists.")]
         public string Name { get; set; } = null!;
 
         [Required]
@@ -18,7 +22,6 @@ namespace Comany_Managment_System_MVC_.Services.ViewModels.Departments
         [MaxLength(2000)]
         public string Description { get; set; } = string.Empty;
 
-        [Required]
         [Display(Name = "Manager Name")]
         public int? ManagerId { get; set; }
 

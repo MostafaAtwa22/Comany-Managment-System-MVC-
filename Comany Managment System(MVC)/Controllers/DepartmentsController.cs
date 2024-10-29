@@ -60,7 +60,7 @@ namespace Comany_Managment_System_MVC_.Controllers
         [HttpGet]
         public async Task<IActionResult> Edit(int id)
         {
-            var department = await _departmentService.Find(d => d.Id == id); 
+            var department = await _departmentService.Find(d => d.Id == id);
 
             if (department is null)
                 return NotFound();
@@ -94,6 +94,14 @@ namespace Comany_Managment_System_MVC_.Controllers
         {
             var isDeleted = await _departmentService.Delete(id);
             return isDeleted ? Ok() : BadRequest();
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> IsNameUnique(string Name, int? Id)
+        {
+            var department = await _departmentService.Find(e => e.Name == Name && e.Id != Id);
+            bool isUnique = department == null;
+            return Json(isUnique);
         }
     }
 }

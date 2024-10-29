@@ -1,9 +1,15 @@
-﻿namespace Comany_Managment_System_MVC_.Services.ViewModels.Projects
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace Comany_Managment_System_MVC_.Services.ViewModels.Projects
 {
     public class CommonProjectVM
     {
         [Required]
         [MaxLength(50), MinLength(3)]
+        [Remote(action: "IsNameUnique",
+            controller: "Projects",
+            AdditionalFields = "Id",
+            ErrorMessage = "This Project is already exists.")]
         public string Name { get; set; } = null!;
 
         [Required]

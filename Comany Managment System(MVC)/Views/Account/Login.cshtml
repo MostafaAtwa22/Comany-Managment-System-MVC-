@@ -5,79 +5,87 @@
     Layout = "_Login";
 }
 
-<section class="vh-100" style="background-color: #508bfc;">
-    <div class="container py-5 h-100">
-        <div class="row d-flex justify-content-center align-items-center h-100">
-            <div class="col-12 col-md-8 col-lg-6 col-xl-5">
-                <div class="card shadow-2-strong" style="border-radius: 1rem;">
-                    <div class="card-body p-5 text-center">
+<div class="d-flex justify-content-center align-items-center vh-100">
+    <div class="container">
+        <div class="row justify-content-center align-items-stretch">
+            <div class="col-md-5">
+                <div class="card shadow-sm p-4 h-100">
+                    <h3 class="text-primary mb-4">Sign In with Company Account</h3>
+                    <form asp-action="Login">
+                        <!-- Email input -->
+                        <div class="form-group mb-3">
+                            <label asp-for="EmailOrUserName" class="form-label">Email</label>
+                            <input asp-for="EmailOrUserName" class="form-control" placeholder="Email" />
+                            <span asp-validation-for="EmailOrUserName" class="text-danger"></span>
+                        </div>
 
-                        <h3 class="mb-5">Sign in</h3>
+                        <!-- Password input -->
+                        <div class="form-group mb-3">
+                            <label asp-for="Password" class="form-label">Password</label>
+                            <input asp-for="Password" type="password" class="form-control" placeholder="Password" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
 
-                        <form asp-action="Login">
-                            <div asp-validation-summary="All" class="text-danger"></div>
-
-                            <!-- Email input -->
-                            <div data-mdb-input-init class="form-outline mb-4">
-                                <label class="form-label" asp-for="EmailOrUserName" style="text-align: left; width: 100%;">Email Or UserName</label>
-                                <input asp-for="EmailOrUserName" class="form-control form-control-lg" placeholder="Email Or UserName" />
-                                <span asp-validation-for="EmailOrUserName" class="text-danger" style="display: block; text-align: left;"></span>
-                            </div>
-
-                            <!-- Password input -->
-                            <div data-mdb-input-init class="form-outline mb-4">
-                                <label class="form-label" asp-for="Password" style="text-align: left; width: 100%;">Password</label>
-                                <input asp-for="Password" class="form-control form-control-lg" placeholder="Password" />
-                                <span asp-validation-for="Password" class="text-danger" style="display: block; text-align: left;"></span>
-                            </div>
-
-                            <!-- Remember me checkbox -->
-                            <div class="form-check d-flex justify-content-start mb-4">
+                        <!-- Remember me and Forgot Password -->
+                        <div class="d-flex justify-content-between align-items-center mb-3">
+                            <div class="form-check">
                                 <input class="form-check-input" asp-for="RememberMe" />
-                                <label class="form-check-label" asp-for="RememberMe"> Remember me </label>
+                                <label class="form-check-label" asp-for="RememberMe"> Remember Me </label>
                             </div>
-
-                            <!-- Login button -->
-                            <button data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-lg btn-block" type="submit">Login</button>
-                        </form>
-
-                        <hr class="my-4">
-
-                        <!-- Social login buttons -->
-                        <button data-mdb-button-init data-mdb-ripple-init class="btn btn-lg btn-block btn-primary" style="background-color: #dd4b39;"
-                                type="submit">
-                            <i class="bi-google"></i> Sign in with Google
-                        </button>
-                        <button data-mdb-button-init data-mdb-ripple-init class="btn btn-lg btn-block btn-primary mb-2" style="background-color: #3b5998;"
-                                type="submit">
-                            <i class="bi-facebook"></i> Sign in with Facebook
-                        </button>
-
-                        <!-- Forget Password Link -->
-                        <div class="mt-4">
-                            <p>
-                                <a asp-action="ForgetPassword" class="text-primary" style="font-size: 1.1rem;text-decoration: none;">
-                                    <i class="bi-lock"></i> Forgot your password?
-                                </a>
-                            </p>
+                            <a asp-action="ForgetPassword" class="text-primary">Forgot Password?</a>
                         </div>
 
-                        <div class="mt-4">
-                            <p>
-                                <i class="bi-door-open"></i> Don't have an email?
-                                <a asp-action="Register" class="text-bg-info" style="font-size: 1.1rem;text-decoration: none;">
-                                    Register
-                                </a>
-                            </p>
+                        <!-- Login button -->
+                        <button type="submit" class="btn btn-warning btn-block mb-3">Sign In</button>
+                        <div class="text-center">
+                            <p>Don't have an account? <a asp-action="Register" class="text-primary">Create One</a></p>
                         </div>
-
-                    </div>
+                    </form>
                 </div>
+            </div>
+            <div class="col-md-5 d-flex justify-content-center align-items-stretch">
+                <img src="~/assets/img/DEPI.jpeg" class="img-fluid h-100 rounded-end" alt="Welcome Image" style="margin: 0; padding: 0; margin-left:-62px;">
             </div>
         </div>
     </div>
-</section>
+</div>
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
+    <style>
+        body {
+            background-color: #333;
+        }
+
+        .card {
+            border-radius: 1rem 0 0 1rem;
+        }
+
+        .btn-warning {
+            background-color: #ff6600;
+            border-color: #ff6600;
+            color: #fff;
+        }
+
+        .text-primary {
+            color: #1a1a1a;
+        }
+
+        .form-check-label {
+            margin-left: 0.5rem;
+        }
+
+        img {
+            max-width: 100%;
+            height: 100%;
+            object-fit: cover;
+            margin-left: 0;
+            padding: 0;
+        }
+
+        .rounded-end {
+            border-top-right-radius: 1rem;
+            border-bottom-right-radius: 1rem;
+        }
+    </style>
 }
