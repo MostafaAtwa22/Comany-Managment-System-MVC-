@@ -31,6 +31,31 @@ namespace Comany_Managment_System_MVC_.Services.EmployeeServices
             return Employees;
         }
 
+        public async Task<IEnumerable<Employee>> GetManagers()
+        {
+            var departments = await _unitOfWork.Departments
+                .FindAll(d => d.ManagerId.HasValue);
+
+            var managerIds = departments
+                .Select(d => d.ManagerId.Value)
+                .ToList();
+
+            return await _unitOfWork.Employees
+                .FindAll(e => managerIds.Contains(e.Id));
+        }
+
+        public async Task<IEnumerable<CommonEmployeeVM>> GetDepartmentEmployees(int departmentId)
+        {
+            var specification = new EmployeeWithManagerSpecification();
+
+            var employees = await _unitOfWork.Employees
+                .FindAllWithSpecificationWithTrack(e => e.DepartmentId == departmentId, specification);
+
+            var employeeViewModels = _mapper.Map<IEnumerable<CommonEmployeeVM>>(employees);
+
+            return employeeViewModels;
+        }
+
         public async Task<Employee?> Find(Expression<Func<Employee, bool>> criteria)
         {
             var specification = new EmployeeWithManagerSpecification();
@@ -162,5 +187,6 @@ namespace Comany_Managment_System_MVC_.Services.EmployeeServices
             return await _unitOfWork.Employees
                 .FindWithSpecificationWithTrack(e => e.Id == id, specification);
         }
+
     }
 }

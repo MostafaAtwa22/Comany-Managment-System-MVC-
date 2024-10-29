@@ -1,4 +1,5 @@
 ﻿using Comany_Managment_System_MVC_.Core.Models;
+using Comany_Managment_System_MVC_.Repository.Data;
 
 namespace Comany_Managment_System_MVC_.Controllers
 {
@@ -19,7 +20,7 @@ namespace Comany_Managment_System_MVC_.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<CommonDepartmentVM>>> Index()
+        public async Task<ActionResult<IEnumerable<Department>>> Index()
         {
             var departments = await _departmentService.GetAll();
             return View(departments);

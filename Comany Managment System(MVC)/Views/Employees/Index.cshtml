@@ -55,16 +55,16 @@ else
                         </td>
                         <td class="align-middle text-end">
                             <div class="d-flex justify-content-end">
-                                <a class="btn btn-info me-2" asp-action="Edit" asp-route-id="@emp.Id">
+                                <a class="btn btn-warning me-2" asp-action="Edit" asp-route-id="@emp.Id">
                                     <i class="bi bi-pencil-fill"></i>
                                 </a>
                                 <a href="javascript:;" class="btn btn-danger me-2 js-delete" data-id="@emp.Id">
                                     <i class="bi bi-trash"></i>
                                 </a>
-                                <a class="btn btn-danger me-2" asp-action="Details" asp-controller="Dependent" asp-route-id="@emp.Id">
+                                <a class="btn btn-secondary me-2" asp-action="Details" asp-controller="Dependent" asp-route-id="@emp.Id">
                                     <i class="bi bi-person-badge-fill"></i>
                                 </a>
-                                <a class="btn btn-danger" asp-action="Details" asp-route-id="@emp.Id">
+                                <a class="btn btn-info" asp-action="Details" asp-route-id="@emp.Id">
                                     <i class="bi bi-eye"></i>
                                 </a>
                             </div>

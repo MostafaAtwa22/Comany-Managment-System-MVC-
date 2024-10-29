@@ -37,6 +37,12 @@ namespace Comany_Managment_System_MVC_.Repository.Repositories
             return await query.Where(criteria).ToListAsync();
         }
 
+        public async Task<IEnumerable<T>> FindAllWithTracking(Expression<Func<T, bool>> criteria)
+        {
+            IQueryable<T> query = _context.Set<T>();
+            return await query.Where(criteria).ToListAsync();
+        }
+
         public async Task<T?> FindWithSpecification(Expression<Func<T, bool>> criteria, 
             ISpecifications<T> specifications)
         {
@@ -49,6 +55,12 @@ namespace Comany_Managment_System_MVC_.Repository.Repositories
         {
             IQueryable<T> query = SpecificationEvaluator<T>.GetQuery(_context.Set<T>(), specifications);
             return await query.SingleOrDefaultAsync(criteria);
+        }
+        public async Task<IEnumerable<T>> FindAllWithSpecificationWithTrack(Expression<Func<T, bool>> criteria, 
+            ISpecifications<T> specifications)
+        {
+            IQueryable<T> query = SpecificationEvaluator<T>.GetQuery(_context.Set<T>(), specifications);
+            return await query.Where(criteria).ToListAsync();
         }
 
         public async Task Create(T model)

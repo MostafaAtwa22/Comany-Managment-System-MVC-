@@ -26,11 +26,19 @@
             </div>
         </div>
         <div class="card-footer d-flex justify-content-around">
-            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning mb-2" style="width: 40%; padding:7px;">
+            <a id="DeptId" onclick="GetEmployees(@Model.Id)" class="btn btn-warning mb-2" style="width: 20%; padding:7px;">
+                <i class="bi bi-person-badge"></i> Employees
+            </a>
+            <a asp-controller="Projects" asp-action="Index" class="btn btn-secondary mb-2" style="width: 20%; padding:7px;">
+                <i class="bi bi-building"></i> Projects
+            </a>
+
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning mb-2" style="width: 20%; padding:7px;">
                 <i class="bi bi-pencil-square"></i> Edit
             </a>
-            <a asp-action="Index" class="btn btn-secondary mb-2" style="width: 40%; padding:7px;">
-                <i class="bi bi-arrow-return-left"></i> Back to Departments</a>
+            <a asp-action="Index" class="btn btn-secondary mb-2" style="width: 20%; padding:7px;">
+                <i class="bi bi-arrow-return-left"></i> Back to Departments
+            </a>
         </div>
     </div>
 </div>

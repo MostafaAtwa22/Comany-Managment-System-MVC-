@@ -3,76 +3,64 @@
   "WorkspaceRootPath": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\views\\account\\checkyourinbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\views\\account\\checkyourinbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\views\\shared\\_datalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\views\\shared\\_datalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\views\\employees\\getmanagers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\views\\employees\\getmanagers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\wwwroot\\js\\search-bar-department.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\wwwroot\\js\\search-bar-department.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\wwwroot\\js\\search-bar-employee.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\wwwroot\\js\\search-bar-employee.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\wwwroot\\js\\employee-index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\wwwroot\\js\\employee-index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).services\\viewmodels\\account\\forgetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|solutionrelative:comany managment system(mvc).services\\viewmodels\\account\\forgetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\views\\shared\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\views\\shared\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).services\\viewmodels\\account\\registeruservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|solutionrelative:comany managment system(mvc).services\\viewmodels\\account\\registeruservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\extensions\\identityextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\extensions\\identityextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\extensions\\connectionstringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\extensions\\connectionstringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\extensions\\applicationrepoitoriesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\extensions\\applicationrepoitoriesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).services\\employeeservices\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|solutionrelative:comany managment system(mvc).services\\employeeservices\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).services\\departmentservices\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|solutionrelative:comany managment system(mvc).services\\departmentservices\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).services\\employeeservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|solutionrelative:comany managment system(mvc).services\\employeeservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).services\\viewmodels\\project\\commonprojectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|solutionrelative:comany managment system(mvc).services\\viewmodels\\project\\commonprojectvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc)\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).services\\employeeservices\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|solutionrelative:comany managment system(mvc).services\\employeeservices\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).services\\viewmodels\\employees\\editemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|solutionrelative:comany managment system(mvc).services\\viewmodels\\employees\\editemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D7CA413-B4C8-43C4-A64C-B99EE194ED2A}|Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj|d:\\programming\\depi\\comany managment system(mvc)\\comany managment system(mvc).services\\viewmodels\\departments\\commondepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,240 +74,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ResetPassword.cshtml",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Account\\ResetPassword.cshtml",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Views\\Account\\ResetPassword.cshtml",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Account\\ResetPassword.cshtml",
-              "RelativeToolTip": "Comany Managment System(MVC)\\Views\\Account\\ResetPassword.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T11:19:13.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ForgetPassword.cshtml",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Account\\ForgetPassword.cshtml",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Views\\Account\\ForgetPassword.cshtml",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Account\\ForgetPassword.cshtml",
-              "RelativeToolTip": "Comany Managment System(MVC)\\Views\\Account\\ForgetPassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T11:09:16.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Views\\Account\\Login.cshtml",
               "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "Comany Managment System(MVC)\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAmwFoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T09:35:35.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Controllers\\DepartmentsController.cs",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Controllers\\DepartmentsController.cs",
-              "RelativeToolTip": "Comany Managment System(MVC)\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAA/wGsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T09:21:36.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Comany Managment System(MVC)\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAA3wLUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T11:01:26.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CheckYourInbox.cshtml",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Account\\CheckYourInbox.cshtml",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Views\\Account\\CheckYourInbox.cshtml",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Account\\CheckYourInbox.cshtml",
-              "RelativeToolTip": "Comany Managment System(MVC)\\Views\\Account\\CheckYourInbox.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAmwDgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T11:08:07.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ForgetPasswordVM.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\ViewModels\\Account\\ForgetPasswordVM.cs",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC).Services\\ViewModels\\Account\\ForgetPasswordVM.cs",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\ViewModels\\Account\\ForgetPasswordVM.cs",
-              "RelativeToolTip": "Comany Managment System(MVC).Services\\ViewModels\\Account\\ForgetPasswordVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T11:17:40.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Employees\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Views\\Employees\\Edit.cshtml",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Employees\\Edit.cshtml",
-              "RelativeToolTip": "Comany Managment System(MVC)\\Views\\Employees\\Edit.cshtml",
-              "ViewState": "AgIAADoAAAAAAAAAAAAmwFgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T11:02:48.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RegisterUserVM.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\ViewModels\\Account\\RegisterUserVM.cs",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC).Services\\ViewModels\\Account\\RegisterUserVM.cs",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\ViewModels\\Account\\RegisterUserVM.cs",
-              "RelativeToolTip": "Comany Managment System(MVC).Services\\ViewModels\\Account\\RegisterUserVM.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T11:01:13.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Views\\Account\\Register.cshtml",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Comany Managment System(MVC)\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAmwE0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T10:58:40.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Login.cshtml",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Shared\\_Login.cshtml",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Views\\Shared\\_Login.cshtml",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Shared\\_Login.cshtml",
-              "RelativeToolTip": "Comany Managment System(MVC)\\Views\\Shared\\_Login.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAmwEsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T10:23:58.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IdentityExtension.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Extensions\\IdentityExtension.cs",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Extensions\\IdentityExtension.cs",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Extensions\\IdentityExtension.cs",
-              "RelativeToolTip": "Comany Managment System(MVC)\\Extensions\\IdentityExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T11:00:09.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ConnectionStringExtension.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Extensions\\ConnectionStringExtension.cs",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Extensions\\ConnectionStringExtension.cs",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Extensions\\ConnectionStringExtension.cs",
-              "RelativeToolTip": "Comany Managment System(MVC)\\Extensions\\ConnectionStringExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T11:00:08.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ApplicationRepoitoriesExtension.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Extensions\\ApplicationRepoitoriesExtension.cs",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Extensions\\ApplicationRepoitoriesExtension.cs",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Extensions\\ApplicationRepoitoriesExtension.cs",
-              "RelativeToolTip": "Comany Managment System(MVC)\\Extensions\\ApplicationRepoitoriesExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T11:00:06.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\EmployeeServices\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC).Services\\EmployeeServices\\EmployeeService.cs",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\EmployeeServices\\EmployeeService.cs",
-              "RelativeToolTip": "Comany Managment System(MVC).Services\\EmployeeServices\\EmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T09:29:38.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IDepartmentService.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\DepartmentServices\\IDepartmentService.cs",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC).Services\\DepartmentServices\\IDepartmentService.cs",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\DepartmentServices\\IDepartmentService.cs",
-              "RelativeToolTip": "Comany Managment System(MVC).Services\\DepartmentServices\\IDepartmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T09:29:22.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\EmployeeServices\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC).Services\\EmployeeServices\\IEmployeeService.cs",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\EmployeeServices\\IEmployeeService.cs",
-              "RelativeToolTip": "Comany Managment System(MVC).Services\\EmployeeServices\\IEmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T09:29:12.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CommonProjectVM.cs",
-              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\ViewModels\\Project\\CommonProjectVM.cs",
-              "RelativeDocumentMoniker": "Comany Managment System(MVC).Services\\ViewModels\\Project\\CommonProjectVM.cs",
-              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\ViewModels\\Project\\CommonProjectVM.cs",
-              "RelativeToolTip": "Comany Managment System(MVC).Services\\ViewModels\\Project\\CommonProjectVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T09:27:11.13Z",
+              "WhenOpened": "2024-10-29T21:42:40.083Z",
               "EditorCaption": ""
             },
             {
@@ -344,15 +111,197 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 5,
+              "Title": "GetManagers.cshtml",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Employees\\GetManagers.cshtml",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Views\\Employees\\GetManagers.cshtml",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Employees\\GetManagers.cshtml",
+              "RelativeToolTip": "Comany Managment System(MVC)\\Views\\Employees\\GetManagers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T20:25:59.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "Comany Managment System(MVC)\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T20:37:42.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Comany Managment System(MVC)\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T20:32:15.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_DataLayout.cshtml",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Shared\\_DataLayout.cshtml",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Views\\Shared\\_DataLayout.cshtml",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Shared\\_DataLayout.cshtml",
+              "RelativeToolTip": "Comany Managment System(MVC)\\Views\\Shared\\_DataLayout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T20:34:09.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Comany Managment System(MVC)\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T20:45:59.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "search-bar-department.js",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\js\\search-bar-department.js",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\wwwroot\\js\\search-bar-department.js",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\js\\search-bar-department.js",
+              "RelativeToolTip": "Comany Managment System(MVC)\\wwwroot\\js\\search-bar-department.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-29T20:46:53.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "search-bar-employee.js",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\js\\search-bar-employee.js",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\wwwroot\\js\\search-bar-employee.js",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\js\\search-bar-employee.js",
+              "RelativeToolTip": "Comany Managment System(MVC)\\wwwroot\\js\\search-bar-employee.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-29T20:45:16.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "employee-index.js",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\js\\employee-index.js",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\wwwroot\\js\\employee-index.js",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\js\\employee-index.js",
+              "RelativeToolTip": "Comany Managment System(MVC)\\wwwroot\\js\\employee-index.js",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-29T20:45:08.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Departments\\Details.cshtml",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Views\\Departments\\Details.cshtml",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Views\\Departments\\Details.cshtml",
+              "RelativeToolTip": "Comany Managment System(MVC)\\Views\\Departments\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T20:30:18.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Comany Managment System(MVC)\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwC4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:24:05.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Comany Managment System(MVC)\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:24:04.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\EmployeeServices\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC).Services\\EmployeeServices\\IEmployeeService.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\EmployeeServices\\IEmployeeService.cs",
+              "RelativeToolTip": "Comany Managment System(MVC).Services\\EmployeeServices\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:18:21.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\EmployeeServices\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC).Services\\EmployeeServices\\EmployeeService.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\EmployeeServices\\EmployeeService.cs",
+              "RelativeToolTip": "Comany Managment System(MVC).Services\\EmployeeServices\\EmployeeService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:18:19.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditEmployeeVM.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\ViewModels\\Employees\\EditEmployeeVM.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC).Services\\ViewModels\\Employees\\EditEmployeeVM.cs",
+              "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\ViewModels\\Employees\\EditEmployeeVM.cs",
+              "RelativeToolTip": "Comany Managment System(MVC).Services\\ViewModels\\Employees\\EditEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:18:01.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "CommonDepartmentVM.cs",
               "DocumentMoniker": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\ViewModels\\Departments\\CommonDepartmentVM.cs",
               "RelativeDocumentMoniker": "Comany Managment System(MVC).Services\\ViewModels\\Departments\\CommonDepartmentVM.cs",
               "ToolTip": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\ViewModels\\Departments\\CommonDepartmentVM.cs",
               "RelativeToolTip": "Comany Managment System(MVC).Services\\ViewModels\\Departments\\CommonDepartmentVM.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T09:21:18.5Z",
+              "WhenOpened": "2024-10-29T20:16:20.804Z",
               "EditorCaption": ""
             }
           ]

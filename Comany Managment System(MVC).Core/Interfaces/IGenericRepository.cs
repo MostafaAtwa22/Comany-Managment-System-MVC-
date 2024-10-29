@@ -12,6 +12,8 @@ namespace Comany_Managment_System_MVC_.Core.Interfaces
         Task<T?> FindWithSpecification(Expression<Func<T, bool>> criteria, ISpecifications<T> specifications);
         Task<T?> FindWithSpecificationWithTrack(Expression<Func<T, bool>> criteria, ISpecifications<T> specifications);
         Task<IEnumerable<T>> FindAll(Expression<Func<T, bool>> criteria);
+        Task<IEnumerable<T>> FindAllWithTracking(Expression<Func<T, bool>> criteria);
+        Task<IEnumerable<T>> FindAllWithSpecificationWithTrack(Expression<Func<T, bool>> criteria, ISpecifications<T> specifications);
         Task Create(T model);
         Task<int> Update(T model);
         Task<int> Delete(T model);

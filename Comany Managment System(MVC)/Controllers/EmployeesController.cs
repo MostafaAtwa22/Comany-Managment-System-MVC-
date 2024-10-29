@@ -44,6 +44,14 @@ namespace Comany_Managment_System_MVC_.Controllers
         }
 
         [HttpGet]
+        public async Task<ActionResult<IEnumerable<Employee>>> GetManagers()
+        {
+            var employees = await _employeeService.GetManagers();
+
+            return View(employees);
+        }
+
+        [HttpGet]
         public async Task<IActionResult> Create()
         {
             CreateEmployeeVM model = new CreateEmployeeVM

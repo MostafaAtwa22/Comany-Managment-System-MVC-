@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Employee>
+
+@{
+    ViewData["Title"] = "Get Managers";
+    Layout = "~/Views/Shared/_DataLayout.cshtml";
+}
+
+@if (!Model.Any())
+{
+    <div class="alert alert-warning mt-5 text-center">
+        <h4 class="alert-heading">No Managers!</h4>
+        <p>No Managers have been added yet.</p>
+    </div>
+}
+else
+{
+    <div class="container mt-5">
+        <!-- Search Bar -->
+        <div class="d-flex justify-content-center mb-5 mt-5">
+            <input type="text" class="form-control search" placeholder="Search by Manager name..." style="width: 40%;">
+            <span class="counter-box ml-3">
+                <span class="counter"></span>
+            </span>
+        </div>
+
+        <div class="row results">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-4 col-md-6 mb-5 result-item">
+                    <!-- Use col-lg-4 for 3 cards per row on large screens -->
+                    <div class="card shadow department-card" style="height: 100%; width:95%;">
+                        <img class="card-img-top" src="@($"{FileSettings.ImagesPath}/Employees/{item.Image}")" alt="@item.Name's photo"
+                             style="object-fit: cover; height: 350px;"> <!-- Kept height as 350px -->
+                        <div class="card-body">
+                            <h5 class="card-title text-dark">@item.Name</h5>
+                            <p class="card-text">Salary: @item.Salary.ToString("C")</p>
+                            <p class="card-text">Age: @item.Age</p>
+                            <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary btn-sm">
+                                See Profile
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+        <div class="alert alert-warning no-result mt-3" style="display: none;">
+            <i class="bi bi-exclamation-triangle"></i> No matching Managers found.
+        </div>
+    </div>
+}
+
+@section Scripts {
+    <script src="~/js/search-bar-employee.js"></script>
+}
