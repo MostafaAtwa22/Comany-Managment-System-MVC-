@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GEGn1o/Qb27zFeQR17Um/zupcRvi1/ahy59ffLCogCA=",
+  "Hash": "Jl4+6X9WPo6EI1TVJIh+1s/vXaNPDqPhaRV++XbGdhI=",
   "Source": "Comany Managment System(MVC)",
   "BasePath": "_content/Comany Managment System(MVC)",
   "Mode": "Default",
@@ -150,6 +150,25 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\Employees\\2fd5d9fb-c5c8-4b5a-aedc-c248174acee3.jpeg"
     },
     {
+      "Identity": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\53734d7b-d654-4c26-8029-bd63d5fd9fe4.jpeg",
+      "SourceId": "Comany Managment System(MVC)",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\",
+      "BasePath": "_content/Comany Managment System(MVC)",
+      "RelativePath": "assets/img/Employees/53734d7b-d654-4c26-8029-bd63d5fd9fe4.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\Employees\\53734d7b-d654-4c26-8029-bd63d5fd9fe4.jpeg"
+    },
+    {
       "Identity": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\6f7d687e-366e-4a48-b77a-b4149e7c52ac.jpeg",
       "SourceId": "Comany Managment System(MVC)",
       "SourceType": "Discovered",
@@ -262,25 +281,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\Employees\\ccf2455a-dece-461e-bfb1-936940622e84.jpeg"
-    },
-    {
-      "Identity": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\e160c28e-25e7-4666-bbff-3518d9ada0a0.jpeg",
-      "SourceId": "Comany Managment System(MVC)",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\",
-      "BasePath": "_content/Comany Managment System(MVC)",
-      "RelativePath": "assets/img/Employees/e160c28e-25e7-4666-bbff-3518d9ada0a0.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Employees\\e160c28e-25e7-4666-bbff-3518d9ada0a0.jpeg"
     },
     {
       "Identity": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\e19faa27-519d-44c4-8273-053dccd71525.jpeg",

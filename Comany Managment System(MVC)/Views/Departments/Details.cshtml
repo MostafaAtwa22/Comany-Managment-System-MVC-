@@ -25,20 +25,20 @@
                 <p class="card-text">@Model.Description</p>
             </div>
         </div>
-        <div class="card-footer d-flex justify-content-around">
-            <a id="DeptId" onclick="GetEmployees(@Model.Id)" class="btn btn-warning mb-2" style="width: 20%; padding:7px;">
-                <i class="bi bi-person-badge"></i> Employees
+        <div class="card-footer d-flex justify-content-start justify-content-md-center flex-wrap flex-md-nowrap">
+            <a id="DeptId" onclick="GetEmployees(@Model.Id)" class="btn btn-outline-danger m-2 text-nowrap flex-grow-1 flex-md-grow-0" style="min-width: 120px;">
+                <i class="bi bi-person-badge me-2"></i> Employees
             </a>
-            <a asp-controller="Projects" asp-action="Index" class="btn btn-secondary mb-2" style="width: 20%; padding:7px;">
-                <i class="bi bi-building"></i> Projects
+            <a asp-controller="Projects" asp-action="Index" class="btn btn-primary m-2 text-nowrap flex-grow-1 flex-md-grow-0" style="min-width: 120px;">
+                <i class="bi bi-building me-2"></i> Projects
             </a>
-
-            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning mb-2" style="width: 20%; padding:7px;">
-                <i class="bi bi-pencil-square"></i> Edit
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning m-2 text-nowrap flex-grow-1 flex-md-grow-0" style="min-width: 120px;">
+                <i class="bi bi-pencil-square me-2"></i> Edit
             </a>
-            <a asp-action="Index" class="btn btn-secondary mb-2" style="width: 20%; padding:7px;">
-                <i class="bi bi-arrow-return-left"></i> Back to Departments
+            <a asp-action="Index" class="btn btn-secondary m-2 text-nowrap flex-grow-1 flex-md-grow-0" style="min-width: 120px; overflow:hidden;">
+                <i class="bi bi-arrow-return-left me-2"></i> Back to Departments
             </a>
         </div>
+
     </div>
 </div>

@@ -5,80 +5,83 @@
     Layout = "~/Views/Shared/_DataLayout.cshtml";
 }
 
-<div class="d-flex justify-content-center mt-4">
-    <a class="btn btn-secondary btn-lg" asp-action="Create" style="width: 280px;">
-        <i class="bi bi-plus-circle-dotted"></i>
-        Add Employee
-    </a>
-</div>
-
-@if (!Model.Any())
-{
-    <div class="alert alert-warning mt-5">
-        <h4 class="alert-heading">No Employees!</h4>
-        <p class="mb-0">No Employees were added yet.</p>
+<div class="container mt-4">
+    <div class="d-flex justify-content-center">
+        <a class="btn btn-secondary btn-lg" asp-action="Create" style="width: 280px;">
+            <i class="bi bi-plus-circle-dotted"></i>
+            Add Employee
+        </a>
     </div>
-}
-else
-{
-    <div class="d-flex justify-content-center mb-5 mt-5">
-        <input type="text" class="form-control search" placeholder="Search by Employee name..." style="width: 40%;">
-        <span class="counter-box ml-3">
-            <span class="counter"></span>
-        </span>
-    </div>
-    <div class="mt-5 d-flex justify-content-center">
-        <table class="table table-bordered table-striped results" style="width: 90%;">
-            <thead>
-                <tr>
-                    <th>Employee</th>
-                    <th>Actions</th>
-                </tr>
-            </thead>
-            <tbody>
-                @foreach (var emp in Model)
-                {
-                    <tr class="result-item" visible="true">
-                        <td>
-                            <div class="d-flex align-items-center">
-                                <div class="pe-3">
-                                    <img src="@(!string.IsNullOrEmpty(emp.Image) ? $"{FileSettings.ImagesPath}/Employees/{emp.Image}" : Url.Content("~/images/placeholder.png"))"
-                                         alt="@emp.Name"
-                                         class="employee-image" />
-                                </div>
-                                <div>
-                                    <h5 class="text-dark" style="font-size:28px;">@emp.Name</h5>
-                                    <p>@emp.Email</p>
-                                    <p>@emp.Department?.Name</p>
-                                </div>
-                            </div>
-                        </td>
-                        <td class="align-middle text-end">
-                            <div class="d-flex justify-content-end">
-                                <a class="btn btn-warning me-2" asp-action="Edit" asp-route-id="@emp.Id">
-                                    <i class="bi bi-pencil-fill"></i>
-                                </a>
-                                <a href="javascript:;" class="btn btn-danger me-2 js-delete" data-id="@emp.Id">
-                                    <i class="bi bi-trash"></i>
-                                </a>
-                                <a class="btn btn-secondary me-2" asp-action="Details" asp-controller="Dependent" asp-route-id="@emp.Id">
-                                    <i class="bi bi-person-badge-fill"></i>
-                                </a>
-                                <a class="btn btn-info" asp-action="Details" asp-route-id="@emp.Id">
-                                    <i class="bi bi-eye"></i>
-                                </a>
-                            </div>
-                        </td>
-                    </tr>
-                }
-            </tbody>
-        </table>
 
-        <div class="alert alert-warning no-result mt-1" style="display: none; width:80%;">
-            <i class="bi bi-exclamation-triangle"></i> No matching employees found.
+    @if (!Model.Any())
+    {
+        <div class="alert alert-warning text-center mt-5">
+            <h4 class="alert-heading">No Employees!</h4>
+            <p class="mb-0">No Employees were added yet.</p>
         </div>
-    </div>
-}
+    }
+    else
+    {
+        <div class="d-flex justify-content-center mt-5 mb-3">
+            <input type="text" class="form-control search" placeholder="Search by Employee name..." style="max-width: 600px;">
+            <span class="counter-box ml-3">
+                <span class="counter"></span>
+            </span>
+        </div>
+
+        <div class="table-responsive mt-4">
+            <table class="table table-bordered table-striped text-center results">
+                <thead>
+                    <tr>
+                        <th>Employee</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var emp in Model)
+                    {
+                        <tr class="result-item" visible="true">
+                            <td>
+                                <div class="d-flex align-items-center">
+                                    <div class="pe-3">
+                                        <img src="@(!string.IsNullOrEmpty(emp.Image) ? $"{FileSettings.ImagesPath}/Employees/{emp.Image}" : Url.Content("~/images/placeholder.png"))"
+                                             alt="@emp.Name"
+                                             class="employee-image rounded-circle" style="width: 70px; height: 70px; object-fit: cover;" />
+                                    </div>
+                                    <div style="text-align: left;">
+                                        <h5 class="text-dark mt-2" style="font-size: 24px;">@emp.Name</h5>
+                                        <p class="mb-0 text-secondary">@emp.Email</p>
+                                        <p class="text-primary" style="font-size: 20px;">@emp.Department?.Name</p>
+                                    </div>
+                                </div>
+                            </td>
+                            <td class="align-middle text-center">
+                                <div class="d-flex justify-content-start justify-content-md-center flex-wrap flex-md-nowrap">
+                                    <a class="btn btn-warning m-1" asp-action="Edit" asp-route-id="@emp.Id" style="min-width: 45px;">
+                                        <i class="bi bi-pencil-fill"></i>
+                                    </a>
+                                    <a href="javascript:;" class="btn btn-danger m-1 js-delete" data-id="@emp.Id" style="min-width: 45px; text-align:center">
+                                        <i class="bi bi-trash"></i>
+                                    </a>
+                                    <a class="btn btn-secondary m-1" asp-action="Details" asp-controller="Dependent" asp-route-id="@emp.Id" style="min-width: 45px;text-align:center">
+                                        <i class="bi bi-person-badge-fill"></i>
+                                    </a>
+                                    <a class="btn btn-info m-1" asp-action="Details" asp-route-id="@emp.Id" style="min-width: 45px; text-align:center">
+                                        <i class="bi bi-eye"></i>
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <div class="alert alert-warning no-result text-center mt-3" style="display: none;">
+                <i class="bi bi-exclamation-triangle"></i> No matching employees found.
+            </div>
+        </div>
+    }
+</div>
 
 @section Scripts {
     <script src="~/js/employee-index.js"></script>

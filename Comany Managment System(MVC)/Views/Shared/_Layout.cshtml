@@ -43,7 +43,7 @@
 
         .main {
             flex: 1;
-        }
+        }   
 
         .footer {
             margin-top: auto;
@@ -84,7 +84,9 @@
                             <p class="nav-link text-white m-0">Welcome @User.Identity.Name</p>
                         </li>
                         <li class="nav-item">
-                            <a asp-controller="Account" asp-action="Logout">Sign Out</a>
+                            <a asp-controller="Account" asp-action="Logout" class="nav-link d-flex align-items-center signout-link">
+                                <i class="bi bi-door-open me-2"></i> Sign Out
+                            </a>
                         </li>
                     }
                     else
