@@ -9,14 +9,13 @@
     if (isCollapsed) {
         $('#collapseEmployees').collapse('hide'); // Hide the collapse
         button.innerHTML = `<i class="bi bi-person-badge me-2"></i> Employees`; // Reset button to Employees
-        button.setAttribute('aria-expanded', 'false'); // Update aria attribute
+        button.setAttribute('aria-expanded', 'false'); 
     } else {
         // Show the collapse and update the button to Close
         $('#collapseEmployees').collapse('show');
         button.innerHTML = `<i class="bi bi-door-open me-2"></i> Close`;
-        button.setAttribute('aria-expanded', 'true'); // Update aria attribute
+        button.setAttribute('aria-expanded', 'true'); 
 
-        // Fetch the employees via AJAX
         $.ajax({
             url: "/Employees/GetEmployeesPerDepartment",
             type: "GET",
@@ -39,7 +38,7 @@
                             onmouseover="this.classList.add('shadow-lg'); this.style.transform='scale(1.02)'"
                             onmouseout="this.classList.remove('shadow-lg'); this.style.transform='scale(1)'">
                             <div class="d-flex flex-column me-3">
-                                <h6 class="mb-0">${st.name}</h6>
+                                <h5 class="mb-0">${st.name}</h5>
                                 <p class="mb-0">Age: ${st.age}</p>
                                 <p class="mb-0">Salary: $${st.salary}</p>
                             </div>

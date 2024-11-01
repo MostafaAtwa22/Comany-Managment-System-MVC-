@@ -79,6 +79,11 @@
                         {
                             <li><a asp-controller="Projects" asp-action="Index">Project</a></li>
                         }
+                        else if (User.IsInRole(RoleConsts.Manager))
+                        {
+                            <li><a asp-controller="Employees" asp-action="GetEmployeesUnderManager" asp-route-id="@User.FindFirst("EmployeeId")?.Value">Employees</a></li>
+                            <li><a asp-controller="Projects" asp-action="Index">Projects</a></li>
+                        }
                         <li class="nav-link d-flex align-items-center signout-link">
                             <a asp-controller="Employees" asp-action="Details" asp-route-id="@User.FindFirst("EmployeeId")?.Value"
                                 class="ms-1 text-white text-decoration-none hover-link">

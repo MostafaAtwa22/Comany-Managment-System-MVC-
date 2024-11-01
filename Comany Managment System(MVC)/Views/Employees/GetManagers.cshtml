@@ -8,8 +8,16 @@
 @if (!Model.Any())
 {
     <div class="alert alert-warning mt-5 text-center">
-        <h4 class="alert-heading">No Managers!</h4>
-        <p>No Managers have been added yet.</p>
+        @if (User.IsInRole(RoleConsts.Manager))
+        {
+            <h4 class="alert-heading">No Employees!</h4>
+            <p>No Employees have been added yet.</p>
+        }
+        else
+        {            
+            <h4 class="alert-heading">No Managers!</h4>
+            <p>No Managers have been added yet.</p>
+        }
     </div>
 }
 else
@@ -17,7 +25,14 @@ else
     <div class="container mt-5">
         <!-- Search Bar -->
         <div class="d-flex justify-content-center mb-5 mt-5">
-            <input type="text" class="form-control search" placeholder="Search by Manager name..." style="width: 40%;">
+            @if (User.IsInRole(RoleConsts.Manager))
+            {
+                <input type="text" class="form-control search" placeholder="Search by Manager name..." style="width: 40%;">
+            }
+            else
+            {
+                <input type="text" class="form-control search" placeholder="Search by Employee name..." style="width: 40%;"> 
+            }
             <span class="counter-box ml-3">
                 <span class="counter"></span>
             </span>

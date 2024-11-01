@@ -55,6 +55,15 @@ namespace Comany_Managment_System_MVC_.Controllers
             return View(employees);
         }
 
+        [Authorize(Roles = "Manager")]
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<Employee>>> GetEmployeesUnderManager(int id)
+        {
+            var employees = await _employeeService.GetEmployeesUnderManager(id);
+
+            return View("GetManagers", employees);
+        }
+
         [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> Create()
@@ -177,6 +186,7 @@ namespace Comany_Managment_System_MVC_.Controllers
 
             return Json(employeeData);
         }
+
 
         [HttpGet]
         public async Task<IActionResult> IsEmailUnique(string Email, int? Id)

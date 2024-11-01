@@ -85,18 +85,23 @@
                         }
                         else if (User.IsInRole(RoleConsts.Employee))
                         {
-                            <li><a asp-controller="Projects" asp-action="Index">Project</a></li>
+                            <li><a asp-controller="Projects" asp-action="Index">Projects</a></li>
                         }
-                        <li class="nav-link d-flex align-items-center signout-link">
+                        else if (User.IsInRole(RoleConsts.Manager))
+                        {
+                            <li><a asp-controller="Employees" asp-action="GetEmployeesUnderManager" asp-route-id="@User.FindFirst("EmployeeId")?.Value">Employees</a></li>
+                            <li><a asp-controller="Projects" asp-action="Index">Projects</a></li>
+                        }
+                        <li>
                             <a asp-controller="Employees" asp-action="Details" asp-route-id="@User.FindFirst("EmployeeId")?.Value"
-                               class="ms-1 text-white text-decoration-none hover-link">
-                                Welcome, @User.Identity.Name
+                               class="ms-1 text-decoration-none hover-link">
+                               Welcome, @User.Identity.Name
                             </a>
                         </li>
 
-                        <li class="nav-item">
-                            <a asp-controller="Account" asp-action="Logout" class="nav-link d-flex align-items-center signout-link">
-                                <i class="bi bi-door-open me-2"></i> Sign Out
+                        <li>
+                            <a asp-controller="Account" asp-action="Logout" class="nav-link signout-link">
+                                <i class="bi bi-door-open"></i> Sign Out
                             </a>
                         </li>
                     }

@@ -52,6 +52,12 @@ namespace Comany_Managment_System_MVC_.Services.EmployeeServices
                 .FindAllWithSpecificationWithTrack(e => e.DepartmentId == departmentId, specification);
         }
 
+        public async Task<IEnumerable<Employee>> GetEmployeesUnderManager(int managerId)
+        {
+            var department = await _unitOfWork.Departments.Find(d => d.ManagerId == managerId);
+            return await GetDepartmentEmployees(department!.Id);
+        }
+
         public async Task<Employee?> Find(Expression<Func<Employee, bool>> criteria)
         {
             var specification = new EmployeeWithManagerSpecification();
