@@ -1,5 +1,6 @@
 ﻿
 using Comany_Managment_System_MVC_.Core.Models;
+using Comany_Managment_System_MVC_.Repository.Data;
 
 namespace Comany_Managment_System_MVC_.Controllers
 {
@@ -8,14 +9,17 @@ namespace Comany_Managment_System_MVC_.Controllers
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly SignInManager<ApplicationUser> _signInManager;
         private readonly IEmailSettings _emailSettings;
+        private readonly IEmployeeService _employeeService;
 
         public AccountController(UserManager<ApplicationUser> userManager, 
             SignInManager<ApplicationUser> signInManager, 
-            IEmailSettings emailSettings)
+            IEmailSettings emailSettings, 
+            IEmployeeService employeeService)
         {
             _userManager = userManager;
             _signInManager = signInManager;
             _emailSettings = emailSettings;
+            _employeeService = employeeService;
         }
 
         [HttpGet]
@@ -62,30 +66,29 @@ namespace Comany_Managment_System_MVC_.Controllers
         {
             return View();
         }
-
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Login(LoginVM userVM)
         {
             if (ModelState.IsValid)
             {
-                ApplicationUser? userModel;
-
-                if (new EmailAddressAttribute().IsValid(userVM.EmailOrUserName))
-                    userModel = await _userManager.FindByEmailAsync(userVM.EmailOrUserName);
-                else
-                    userModel = await _userManager.FindByNameAsync(userVM.EmailOrUserName);
-
+                ApplicationUser? userModel = await _userManager.FindByEmailAsync(userVM.Email);
                 if (userModel is not null)
                 {
-                    bool find = await _userManager.CheckPasswordAsync(userModel, userVM.Password);
-                    if (find == true)
+                    bool passwordMatches = await _userManager.CheckPasswordAsync(userModel, userVM.Password);
+                    if (passwordMatches)
                     {
-                        List<Claim> claims = new List<Claim>(); 
-                        await _signInManager.SignInWithClaimsAsync(userModel,
-                            userVM.RememberMe, claims);
+                        var employee = await _employeeService.Find(e => e.Email.ToLower() == userModel.Email!.ToLower());
 
-                        return RedirectToAction(nameof(Index), "Home");
+                        if (employee is not null)
+                        {
+                            List<Claim> claims = new List<Claim>
+                            {
+                                new Claim("EmployeeId", employee!.Id.ToString()),
+                            };
+                            await _signInManager.SignInWithClaimsAsync(userModel, userVM.RememberMe, claims);
+                            return RedirectToAction(nameof(Index), "Home");
+                        }
                     }
                 }
                 ModelState.AddModelError(string.Empty, "User and Password is invalid");

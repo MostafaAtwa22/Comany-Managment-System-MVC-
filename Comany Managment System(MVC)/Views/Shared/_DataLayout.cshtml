@@ -72,20 +72,39 @@
 
             <nav id="navmenu" class="navmenu">
                 <ul>
-                    <li><a asp-controller="Home" asp-action="Index">Home</a></li>
-                    <li><a asp-controller="Departments" asp-action="Index">Departments</a></li>
-                    <li><a asp-controller="Employees" asp-action="Index">Employees</a></li>
-                    <li><a asp-controller="Employees" asp-action="GetManagers">Managers</a></li>
-                    <li><a asp-controller="Projects" asp-action="Index">Projects</a></li>
-                    <li><a asp-controller="Dependents" asp-action="Index">Dependents</a></li>
-                    <li class="nav-item text-center">
-                        <p class="nav-link text-white m-0">Welcome @User.Identity.Name</p>
-                    </li>
-                    <li class="nav-item">
-                        <a asp-controller="Account" asp-action="Logout" class="nav-link d-flex align-items-center signout-link">
-                            <i class="bi bi-door-open me-2"></i> Sign Out
-                        </a>
-                    </li>
+                    @if (User?.Identity?.IsAuthenticated == true)
+                    {
+                        if (User.IsInRole(RoleConsts.Admin))
+                        {
+                            <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+                            <li><a asp-controller="Departments" asp-action="Index">Departments</a></li>
+                            <li><a asp-controller="Employees" asp-action="Index">Employees</a></li>
+                            <li><a asp-controller="Employees" asp-action="GetManagers">Managers</a></li>
+                            <li><a asp-controller="Projects" asp-action="Index">Projects</a></li>
+                            <li><a asp-controller="Dependents" asp-action="Index">Dependents</a></li>
+                        }
+                        else if (User.IsInRole(RoleConsts.Employee))
+                        {
+                            <li><a asp-controller="Projects" asp-action="Index">Project</a></li>
+                        }
+                        <li class="nav-link d-flex align-items-center signout-link">
+                            <a asp-controller="Employees" asp-action="Details" asp-route-id="@User.FindFirst("EmployeeId")?.Value"
+                               class="ms-1 text-white text-decoration-none hover-link">
+                                Welcome, @User.Identity.Name
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a asp-controller="Account" asp-action="Logout" class="nav-link d-flex align-items-center signout-link">
+                                <i class="bi bi-door-open me-2"></i> Sign Out
+                            </a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li><a asp-controller="Account" asp-action="Login">Sign In</a></li>
+                        <li><a asp-controller="Account" asp-action="Register">Sign Up</a></li>
+                    }
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>

@@ -43,14 +43,17 @@
                         }
                     </div>
                 </div>
-                <div class="card-footer d-flex justify-content-around">
-                    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning mb-2 d-flex align-items-center justify-content-center" style="width: 40%; padding: 7px;">
-                        <i class="bi bi-pencil-square me-2"></i> Edit
-                    </a>
-                    <a asp-action="Index" class="btn btn-secondary mb-2 d-flex align-items-center justify-content-center" style="width: 40%; padding: 7px;">
-                        <i class="bi bi-arrow-return-left me-2"></i> Back to Employees
-                    </a>
-                </div>
+                @if (User.IsInRole(RoleConsts.Admin))
+                {                    
+                    <div class="card-footer d-flex justify-content-around">
+                        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning mb-2 d-flex align-items-center justify-content-center" style="width: 40%; padding: 7px;">
+                            <i class="bi bi-pencil-square me-2"></i> Edit
+                        </a>
+                        <a asp-action="Index" class="btn btn-secondary mb-2 d-flex align-items-center justify-content-center" style="width: 40%; padding: 7px;">
+                            <i class="bi bi-arrow-return-left me-2"></i> Back to Employees
+                        </a>
+                    </div>
+                }
 
             </div>
         </div>

@@ -10,7 +10,7 @@ namespace Comany_Managment_System_MVC_.Services.EmployeeServices
         Task<IEnumerable<SelectListItem>> GetManagersForEdit(int departmentId);
         Task<IEnumerable<Employee>> GetAll();
         Task<IEnumerable<Employee>> GetManagers();
-        Task<IEnumerable<CommonEmployeeVM>> GetDepartmentEmployees(int departmentId);
+        Task<IEnumerable<Employee>> GetDepartmentEmployees(int departmentId);
         Task<Employee?> Find(Expression<Func<Employee, bool>> criteria);
         Task Create(CreateEmployeeVM model);
         Task<Employee?> Update(EditEmployeeVM model);

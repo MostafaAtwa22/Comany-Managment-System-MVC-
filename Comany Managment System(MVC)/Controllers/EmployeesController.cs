@@ -4,6 +4,7 @@ using Comany_Managment_System_MVC_.Services.DepartmentServices;
 using Comany_Managment_System_MVC_.Services.EmployeeServices;
 using Comany_Managment_System_MVC_.Services.ProjectServices;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using System.Drawing;
 
 namespace Comany_Managment_System_MVC_.Controllers
 {
@@ -25,6 +26,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             _mapper = mapper;
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Employee>>> Index()
         {
@@ -32,6 +34,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             return View(employees);
         }
 
+        [Authorize(Roles = "Admin,Manager,Employee")]
         [HttpGet]
         public async Task<ActionResult<Employee>> Details(int id)
         {
@@ -43,6 +46,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             return View(employee);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Employee>>> GetManagers()
         {
@@ -51,6 +55,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             return View(employees);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> Create()
         {
@@ -68,6 +73,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             return View(model);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(CreateEmployeeVM model)
@@ -90,6 +96,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> Edit(int id)
         {
@@ -122,6 +129,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             return View(model);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(EditEmployeeVM model)
@@ -147,11 +155,27 @@ namespace Comany_Managment_System_MVC_.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpDelete]
         public async Task<IActionResult> Delete(int id)
         {
             var isDeleted = await _employeeService.Delete(id);
             return isDeleted ? Ok() : BadRequest();
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetEmployeesPerDepartment(int deptId)
+        {
+            var employees = await _employeeService.GetDepartmentEmployees(deptId);
+
+            var employeeData = employees.Select(e => new {
+                Name = e.Name,
+                Age = e.Age,
+                Salary = e.Salary,
+                Image = e.Image,
+            }).ToList();
+
+            return Json(employeeData);
         }
 
         [HttpGet]

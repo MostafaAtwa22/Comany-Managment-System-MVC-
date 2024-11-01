@@ -8,7 +8,7 @@
 <div class="container mt-5 mb-5">
     <h2 class="text-center mb-4">Department Details</h2>
     <div class="card shadow-lg">
-        <div class="card-header bg-primary text-white text-center">
+        <div class="card-header text-center" style="background-color: #404356; color: white;">
             <h5 class="card-title mb-0">@Model.Name</h5>
         </div>
         <div class="card-body">
@@ -18,7 +18,7 @@
             </div>
             <div class="mb-3">
                 <h6 class="card-subtitle mb-1 text-info">Manager:</h6>
-                    <p class="card-text">@Model.Manager?.Name</p>
+                <p class="card-text">@Model.Manager?.Name</p>
             </div>
             <div>
                 <h6 class="card-subtitle mb-1 text-info">Description:</h6>
@@ -26,19 +26,58 @@
             </div>
         </div>
         <div class="card-footer d-flex justify-content-start justify-content-md-center flex-wrap flex-md-nowrap">
-            <a id="DeptId" onclick="GetEmployees(@Model.Id)" class="btn btn-outline-danger m-2 text-nowrap flex-grow-1 flex-md-grow-0" style="min-width: 120px;">
+            <a id="employeesToggle" onclick="toggleEmployees(this, @Model.Id)" class="btn btn-outline-danger m-2 text-nowrap flex-grow-1 flex-md-grow-0" style="min-width: 120px;" role="button" aria-expanded="false" aria-controls="collapseEmployees">
                 <i class="bi bi-person-badge me-2"></i> Employees
             </a>
-            <a asp-controller="Projects" asp-action="Index" class="btn btn-primary m-2 text-nowrap flex-grow-1 flex-md-grow-0" style="min-width: 120px;">
+            <a id="DeptId" onclick="GetEmployees(@Model.Id)" class="btn btn-primary m-2 text-nowrap flex-grow-1 flex-md-grow-0" style="min-width: 120px;">
                 <i class="bi bi-building me-2"></i> Projects
             </a>
             <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning m-2 text-nowrap flex-grow-1 flex-md-grow-0" style="min-width: 120px;">
                 <i class="bi bi-pencil-square me-2"></i> Edit
             </a>
-            <a asp-action="Index" class="btn btn-secondary m-2 text-nowrap flex-grow-1 flex-md-grow-0" style="min-width: 120px; overflow:hidden;">
+            <a asp-action="Index" class="btn btn-secondary m-2 text-nowrap flex-grow-1 flex-md-grow-0" style="min-width: 120px;">
                 <i class="bi bi-arrow-return-left me-2"></i> Back to Departments
             </a>
         </div>
-
     </div>
 </div>
+<div class="container mt-4 mb-4">
+    <div class="row">
+        <!-- Employees Card -->
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header btn-outline-danger text-danger text-center">
+                    <h5 class="card-title mb-0"><i class="bi bi-person-badge me-2"></i> Employees</h5>
+                </div>
+
+                <div class="collapse" id="collapseEmployees">
+                    <div class="card card-body">
+                        <div id="EmployeesContainer" class="d-flex flex-column gap-3"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Projects Card -->
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header bg-primary text-white text-center">
+                    <h5 class="card-title mb-0"><i class="bi bi-building me-2"></i> Projects</h5>
+                </div>
+
+                <div class="collapse" id="collapseProjects">
+                    <div class="card card-body">
+                        <div id="ProjectsContainer" class="d-flex flex-column gap-3"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        const imagesPath = "@($"{FileSettings.ImagesPath}/Employees")";
+    </script>
+    <script src="~/js/employees-per-department.js"></script>
+}

@@ -1,9 +1,11 @@
 ﻿using Comany_Managment_System_MVC_.Core.Models;
 using Comany_Managment_System_MVC_.Repository.Data;
+using Comany_Managment_System_MVC_.Settings;
+using System.Data;
 
 namespace Comany_Managment_System_MVC_.Controllers
 {
-    [Authorize]
+    [Authorize(Roles = "Admin")]
     public class DepartmentsController : Controller
     {
         private readonly IDepartmentService _departmentService;

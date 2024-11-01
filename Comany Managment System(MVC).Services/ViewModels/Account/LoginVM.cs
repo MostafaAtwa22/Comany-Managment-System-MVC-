@@ -5,8 +5,7 @@ namespace Comany_Managment_System_MVC_.Services.ViewModels.Account
     public class LoginVM
     {
         [Required]
-        [Display(Name = "Email Or UserName")]
-        public string EmailOrUserName { get; set; } = string.Empty;
+        public string Email{ get; set; } = string.Empty;
 
         [Required]
         [DataType(DataType.Password)]

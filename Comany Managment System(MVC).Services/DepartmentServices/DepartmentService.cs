@@ -69,6 +69,13 @@ namespace Comany_Managment_System_MVC_.Services.DepartmentServices
 
             _mapper.Map(model, dept);
 
+            var deptManager = await UpdateManager(model.ManagerId);
+
+            if (deptManager is not null)
+            {
+                deptManager.ManagerId = null;
+                await _unitOfWork.Departments.Update(deptManager);
+            }
             await _unitOfWork.Departments.Update(dept);
 
             return true;
@@ -90,6 +97,13 @@ namespace Comany_Managment_System_MVC_.Services.DepartmentServices
             var specification = new DepartmentWithManagerSpecification();
             return await _unitOfWork.Departments
                 .FindWithSpecificationWithTrack(d => d.Id == id, specification);
+        }
+
+        private async Task<Department?> UpdateManager(int? managerId)
+        {
+            var specification = new DepartmentWithManagerSpecification();
+            return await _unitOfWork.Departments
+                .FindWithSpecificationWithTrack(d => d.ManagerId == managerId, specification);
         }
     }
 }

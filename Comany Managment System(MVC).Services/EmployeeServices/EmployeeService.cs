@@ -44,16 +44,12 @@ namespace Comany_Managment_System_MVC_.Services.EmployeeServices
                 .FindAll(e => managerIds.Contains(e.Id));
         }
 
-        public async Task<IEnumerable<CommonEmployeeVM>> GetDepartmentEmployees(int departmentId)
+        public async Task<IEnumerable<Employee>> GetDepartmentEmployees(int departmentId)
         {
             var specification = new EmployeeWithManagerSpecification();
 
-            var employees = await _unitOfWork.Employees
+            return await _unitOfWork.Employees
                 .FindAllWithSpecificationWithTrack(e => e.DepartmentId == departmentId, specification);
-
-            var employeeViewModels = _mapper.Map<IEnumerable<CommonEmployeeVM>>(employees);
-
-            return employeeViewModels;
         }
 
         public async Task<Employee?> Find(Expression<Func<Employee, bool>> criteria)
