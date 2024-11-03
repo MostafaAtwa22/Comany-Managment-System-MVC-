@@ -1,12 +1,6 @@
 ﻿using Comany_Managment_System_MVC_.Core.Interfaces;
 using Comany_Managment_System_MVC_.Core.Models;
 using Comany_Managment_System_MVC_.Repository.Data;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Reflection.Metadata.BlobBuilder;
 
 namespace Comany_Managment_System_MVC_.Repository.Repositories
 {

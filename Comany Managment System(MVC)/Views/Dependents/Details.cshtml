@@ -1,0 +1,74 @@
+﻿@model Dependent
+
+@{
+    ViewData["Title"] = Model.Name;
+    Layout = "~/Views/Shared/_DataLayout.cshtml";
+}
+
+<div class="container mt-5 mb-lg-5">
+    <div class="card border-light rounded-3 shadow-lg overflow-hidden" style="background-color: #f8f9fa;">
+        <div class="card-header text-center" style="background-color: #404356; color: white;">
+            <h2 class="mb-0" style="color:white;">@Model.Name</h2>
+            <span style="color: darkorange; font-size: 20px;">@Model.Employee?.Name's @Model.Relation</span>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-4 text-center" style="margin-top:50px;">
+                    <img src="@($"{FileSettings.ImagesPath}/Dependents/{Model.Image}")"
+                         alt="@Model.Name"
+                         class="img-fluid rounded-circle mb-3"
+                         style="width: 200px; height: 200px; object-fit: cover;" />
+                </div>
+                <div class="col-md-8">
+                    <h4 class="fw-bold">Details</h4>
+                    <div class="info-list mb-4">
+                        <div class="info-item"><strong>Age:</strong> <span>@Model.Name</span></div>
+                        <div class="info-item"><strong>Age:</strong> <span>@Model.Age</span></div>
+                        <div class="info-item"><strong>Salary:</strong> <span>@Model.Relation</span></div>
+                        <div class="info-item"><strong>Gender:</strong> <span>@Model.Gender</span></div>
+                    </div>
+                </div>
+                @if (User.IsInRole(RoleConsts.Admin))
+                {
+                    <div class="card-footer d-flex justify-content-around">
+                        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning mb-2 d-flex align-items-center justify-content-center" style="width: 40%; padding: 7px;">
+                            <i class="bi bi-pencil-square me-2"></i> Edit
+                        </a>
+                        <a asp-action="Index" class="btn btn-secondary mb-2 d-flex align-items-center justify-content-center" style="width: 40%; padding: 7px;">
+                            <i class="bi bi-arrow-return-left me-2"></i> Back to Dependents
+                        </a>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .info-list {
+        border: 1px solid #dee2e6; /* Border to separate info section */
+        border-radius: 0.25rem; /* Match Bootstrap's border radius */
+        padding: 1rem; /* Space inside the border */
+        background-color: #e9ecef; /* Light background for the info section */
+    }
+
+    .info-item {
+        margin-bottom: 0.5rem; /* Space between info items */
+        font-size: 1.1rem; /* Slightly larger font for readability */
+    }
+
+        .info-item strong {
+            color: #343a40; /* Strong color for labels */
+        }
+
+    .project-badges {
+        margin-top: 0.5rem; /* Margin above project badges */
+    }
+
+    .custom-badge {
+        background-color: #007bff; /* Customize badge color */
+        color: white; /* Text color for badges */
+        border-radius: 0.25rem; /* Match Bootstrap's badge style */
+        padding: 0.5rem 1rem; /* Padding for badges */
+    }
+</style>

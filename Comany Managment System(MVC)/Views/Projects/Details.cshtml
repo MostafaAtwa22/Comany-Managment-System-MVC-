@@ -1,0 +1,65 @@
+﻿@model Project
+
+@{
+    ViewData["Title"] = Model.Name;
+    Layout = "_DataLayout";
+}
+
+<div class="container mt-5 mb-5">
+    <h2 class="text-center mb-4">Project Details</h2>
+    <div class="card shadow-lg">
+        <div class="card-header text-center" style="background-color: #404356; color: white;">
+            <h5 class="card-title mb-0">@Model.Name</h5>
+        </div>
+        <div class="card-body">
+            <div class="mb-3">
+                <h6 class="card-subtitle mb-1 text-info">Location:</h6>
+                <p class="card-text">@Model.Location</p>
+            </div>
+            <div class="mb-3">
+                <h6 class="card-subtitle mb-1 text-info">Budget:</h6>
+                <p class="card-text">@Model.Budget.ToString("C")</p>
+            </div>
+            <div class="mb-3">
+                <h6 class="card-subtitle mb-1 text-info">Department:</h6>
+                <p class="card-text">@Model.Department.Name</p>
+            </div>
+            <div>
+                <h6 class="card-subtitle mb-1 text-info">Description:</h6>
+                <p class="card-text">@Model.Description</p>
+            </div>
+        </div>
+        <div class="card-footer d-flex justify-content-start justify-content-md-center flex-wrap flex-md-nowrap">
+            <a id="employeesToggle" onclick="toggleEmployees(this, @Model.Id)" class="btn btn-outline-danger m-2 text-nowrap flex-grow-1 flex-md-grow-0" style="min-width: 120px;" role="button" aria-expanded="false" aria-controls="collapseEmployees">
+                <i class="bi bi-person-badge me-2"></i> Employees
+            </a>
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning m-2 text-nowrap flex-grow-1 flex-md-grow-0" style="min-width: 120px;">
+                <i class="bi bi-pencil-square me-2"></i> Edit
+            </a>
+            <a asp-action="Index" class="btn btn-secondary m-2 text-nowrap flex-grow-1 flex-md-grow-0" style="min-width: 120px;">
+                <i class="bi bi-arrow-return-left me-2"></i> Back to Projects
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-5 mb-5">
+    <div class="card">
+        <div class="card-header btn-outline-danger text-danger text-center">
+            <h5 class="card-title mb-0"><i class="bi bi-person-badge me-2"></i> Employees</h5>
+        </div>
+
+        <div class="collapse" id="collapseEmployees">
+            <div class="card card-body">
+                <div id="EmployeesContainer" class="d-flex flex-column gap-3"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        const imagesPath = "@($"{FileSettings.ImagesPath}/Employees")";
+    </script>
+    <script src="~/js/employees-per-project.js"></script>
+}

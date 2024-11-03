@@ -2,7 +2,7 @@
 
 namespace Comany_Managment_System_MVC_.Core.Models
 {
-    public class EmployeeProjects
+    public class EmployeeProjects : BaseEntity
     {
         public int EmployeeId { get; set; }
         public virtual Employee Employee { get; set; } = default!;

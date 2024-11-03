@@ -69,7 +69,7 @@
                                     <a href="javascript:;" class="btn btn-danger m-1 js-delete" data-id="@emp.Id" style="min-width: 45px; text-align:center">
                                         <i class="bi bi-trash"></i>
                                     </a>
-                                    <a class="btn btn-secondary m-1" asp-action="Details" asp-controller="Dependent" asp-route-id="@emp.Id" style="min-width: 45px;text-align:center">
+                                    <a class="btn btn-secondary m-1" asp-action="GetEmployeesDependents" asp-controller="Dependents" asp-route-id="@emp.Id" style="min-width: 45px;text-align:center">
                                         <i class="bi bi-person-badge-fill"></i>
                                     </a>
                                     <a class="btn btn-info m-1" asp-action="Details" asp-route-id="@emp.Id" style="min-width: 45px; text-align:center">
@@ -91,5 +91,5 @@
 
 @section Scripts {
     <script src="~/js/employee-index.js"></script>
-    <script src="~/js/search-bar-employee.js"></script>
+    <script src="~/js/search-bar-employee-dependent.js"></script>
 }

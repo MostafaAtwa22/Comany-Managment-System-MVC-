@@ -29,6 +29,7 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\assets\img\Employees\" />
+    <Folder Include="wwwroot\assets\img\Dependents\" />
   </ItemGroup>
 
 </Project>

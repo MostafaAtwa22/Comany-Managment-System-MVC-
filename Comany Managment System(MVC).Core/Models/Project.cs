@@ -13,6 +13,10 @@ namespace Comany_Managment_System_MVC_.Core.Models
         [MaxLength(50)]
         public string Location { get; set; } = string.Empty;
 
+        [Required]
+        [MaxLength(3000)]
+        public string Description { get; set; } = string.Empty;
+
         public virtual ICollection<Employee>? Employees { get; set; } = new List<Employee>();
 
         public virtual ICollection<EmployeeProjects>? EmployeeProjects { get; set; } = new List<EmployeeProjects>();

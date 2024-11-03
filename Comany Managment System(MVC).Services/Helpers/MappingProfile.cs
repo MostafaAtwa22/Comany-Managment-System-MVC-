@@ -2,7 +2,10 @@
 using Comany_Managment_System_MVC_.Core.Enums;
 using Comany_Managment_System_MVC_.Core.Models;
 using Comany_Managment_System_MVC_.Services.ViewModels.Departments;
+using Comany_Managment_System_MVC_.Services.ViewModels.Dependents;
 using Comany_Managment_System_MVC_.Services.ViewModels.Employees;
+using Comany_Managment_System_MVC_.Services.ViewModels.Projects;
+using Company_Management_System_MVC_.Core.Enums;
 
 namespace Comany_Managment_System_MVC_.Services.Helpers
 {
@@ -11,7 +14,9 @@ namespace Comany_Managment_System_MVC_.Services.Helpers
         public MappingProfile()
         {
             DepartmentMapper();
+            DependentMapper();
             EmployeeMapper();
+            ProjectMapper();
         }
 
         private void DepartmentMapper()
@@ -29,6 +34,24 @@ namespace Comany_Managment_System_MVC_.Services.Helpers
             CreateMap<Department, EditDepartmentVM>()
                 .ForMember(dest => dest.ManagersSelectList, opt => opt.Ignore())
                 .ReverseMap();
+        }
+
+        private void DependentMapper()
+        {
+            CreateMap<Dependent, EditDependentVM>()
+                .ForMember(dest => dest.Relation, opt => opt.MapFrom(src => (Relation)src.Relation))
+                .ForMember(dest => dest.Gender, opt => opt.MapFrom(src => (Gender)src.Gender))
+                .ForMember(dest => dest.EmployeeId, opt => opt.MapFrom(src => src.EmployeeId))
+                .ForMember(dest => dest.CurrentImage, opt => opt.MapFrom(src => src.Image))
+                .ForMember(dest => dest.Image, opt => opt.Ignore()) 
+                .ReverseMap()
+                .ForMember(dest => dest.Image, opt => opt.Ignore());
+
+            CreateMap<CreateDependentVM, Dependent>()
+                 .ForMember(dest => dest.Relation, opt => opt.MapFrom(src => (Relation)src.Relation))
+                 .ForMember(dest => dest.Gender, opt => opt.MapFrom(src => (Gender)src.Gender))
+                 .ForMember(dest => dest.EmployeeId, opt => opt.MapFrom(src => src.EmployeeId))
+                 .ReverseMap();
         }
 
         private void EmployeeMapper()
@@ -55,6 +78,23 @@ namespace Comany_Managment_System_MVC_.Services.Helpers
                    })))
                .ForMember(dest => dest.Image, opt => opt.Ignore())
                .ReverseMap();
+        }
+
+        private void ProjectMapper()
+        {
+            CreateMap<CreateProjectVM, Project>()
+                .ForMember(dest => dest.DepartmentId, opt => opt.MapFrom(src => src.DepartmentId));
+
+            CreateMap<Project, CreateProjectVM>()
+                .ForMember(dest => dest.Departments, opt => opt.Ignore())
+                .ReverseMap();
+
+            CreateMap<EditProjectVM, Project>()
+                .ForMember(dest => dest.DepartmentId, opt => opt.MapFrom(src => src.DepartmentId));
+
+            CreateMap<Project, EditProjectVM>()
+                .ForMember(dest => dest.Departments, opt => opt.Ignore())
+                .ReverseMap();
         }
     }
 }

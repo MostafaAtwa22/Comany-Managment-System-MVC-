@@ -1,11 +1,4 @@
-﻿using AutoMapper;
-using Comany_Managment_System_MVC_.Core.Spercification;
-using Comany_Managment_System_MVC_.Services.ViewModels.Employees;
-using Microsoft.AspNetCore.Hosting;
-using System.Linq.Expressions;
-
-
-namespace Comany_Managment_System_MVC_.Services.EmployeeServices
+﻿namespace Comany_Managment_System_MVC_.Services.EmployeeServices
 {
     public class EmployeeService : IEmployeeService
     {
@@ -28,34 +21,9 @@ namespace Comany_Managment_System_MVC_.Services.EmployeeServices
         {
             var specification = new EmployeeWithManagerSpecification();
             var Employees = await _unitOfWork.Employees.GetAllWithSpecification(specification);
-            return Employees;
-        }
-
-        public async Task<IEnumerable<Employee>> GetManagers()
-        {
-            var departments = await _unitOfWork.Departments
-                .FindAll(d => d.ManagerId.HasValue);
-
-            var managerIds = departments
-                .Select(d => d.ManagerId.Value)
+            return Employees
+                .OrderBy(e => e.Name)
                 .ToList();
-
-            return await _unitOfWork.Employees
-                .FindAll(e => managerIds.Contains(e.Id));
-        }
-
-        public async Task<IEnumerable<Employee>> GetDepartmentEmployees(int departmentId)
-        {
-            var specification = new EmployeeWithManagerSpecification();
-
-            return await _unitOfWork.Employees
-                .FindAllWithSpecificationWithTrack(e => e.DepartmentId == departmentId, specification);
-        }
-
-        public async Task<IEnumerable<Employee>> GetEmployeesUnderManager(int managerId)
-        {
-            var department = await _unitOfWork.Departments.Find(d => d.ManagerId == managerId);
-            return await GetDepartmentEmployees(department!.Id);
         }
 
         public async Task<Employee?> Find(Expression<Func<Employee, bool>> criteria)
@@ -65,6 +33,55 @@ namespace Comany_Managment_System_MVC_.Services.EmployeeServices
             if (employee is null)
                 return null;
             return employee;
+        }
+
+        public async Task<IEnumerable<Employee>> GetManagers()
+        {
+            var departments = await _unitOfWork.Departments
+                .FindAll(d => d.ManagerId.HasValue);
+
+            var managerIds = departments
+                .Select(d => d.ManagerId!.Value)
+                .ToList();
+
+            var managers = await _unitOfWork.Employees
+                .FindAll(e => managerIds.Contains(e.Id));
+
+            return managers
+                .OrderBy(e => e.Name)
+                .ToList();
+        }
+
+        public async Task<IEnumerable<Employee>> GetDepartmentEmployees(int departmentId)
+        {
+            var employees = await _unitOfWork.Employees
+            .FindAll(e => e.DepartmentId == departmentId);
+
+            return employees
+                .OrderBy(e => e.Name)
+                .ToList();
+        }
+
+        public async Task<IEnumerable<Employee>> GetProjectsEmployees(int projectId)
+        {
+            var project = await _unitOfWork.Projects
+                .Find(p => p.Id == projectId);
+
+            var employees = await _unitOfWork.Employees
+                .FindAll(e => e.Projects.Contains(project!));
+
+            return employees
+                .OrderBy(e => e.Name)
+                .ToList();
+        }
+
+        public async Task<IEnumerable<Employee>> GetEmployeesUnderManager(int managerId)
+        {
+            var department = await _unitOfWork.Departments.Find(d => d.ManagerId == managerId);
+            var managers = await GetDepartmentEmployees(department!.Id);
+            return managers
+                .OrderBy(m => m.Name)
+                .ToList();
         }
 
         public async Task<IEnumerable<SelectListItem>> GetUnassignedManagers()
@@ -88,14 +105,14 @@ namespace Comany_Managment_System_MVC_.Services.EmployeeServices
         public async Task<IEnumerable<SelectListItem>> GetManagersForEdit(int departmentId)
         {
             var employees = await _unitOfWork.Employees
-                .FindAll(e => e.DepartmentId == departmentId); 
+                .FindAll(e => e.DepartmentId == departmentId);
 
             var selectListItems = employees.Select(e => new SelectListItem
             {
                 Text = e.Name,
                 Value = e.Id.ToString()
             })
-            .OrderBy(e => e.Text) 
+            .OrderBy(e => e.Text)
             .ToList();
 
             return selectListItems;
@@ -114,7 +131,7 @@ namespace Comany_Managment_System_MVC_.Services.EmployeeServices
 
         public async Task<Employee?> Update(EditEmployeeVM model)
         {
-            var employee = await FindWithoutTrak(model.Id);
+            var employee = await FindWithTrack(model.Id);
 
             if (employee is null)
                 return null!;
@@ -151,7 +168,7 @@ namespace Comany_Managment_System_MVC_.Services.EmployeeServices
         public async Task<bool> Delete(int id)
         {
             bool isDeleted = false;
-            var employee = await FindWithoutTrak(id);
+            var employee = await FindWithTrack(id);
 
             if (employee is null)
                 return false;
@@ -183,12 +200,11 @@ namespace Comany_Managment_System_MVC_.Services.EmployeeServices
             return imageName;
         }
 
-        private async Task<Employee?> FindWithoutTrak(int id)
+        private async Task<Employee?> FindWithTrack(int id)
         {
             var specification = new EmployeeWithManagerSpecification();
             return await _unitOfWork.Employees
                 .FindWithSpecificationWithTrack(e => e.Id == id, specification);
         }
-
     }
 }

@@ -21,7 +21,9 @@ namespace Comany_Managment_System_MVC_.Services.DepartmentServices
         {
             var specification = new DepartmentWithManagerSpecification();
             var departmetnts = await _unitOfWork.Departments.GetAllWithSpecification(specification);
-            return departmetnts;
+            return departmetnts
+                .OrderBy(d => d.Name)
+                .ToList();
         }
 
         public async Task<Department?> Find(Expression<Func<Department, bool>> criteria)

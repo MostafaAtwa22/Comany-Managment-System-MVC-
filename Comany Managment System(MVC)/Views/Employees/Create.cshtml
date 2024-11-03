@@ -22,12 +22,12 @@
             </div>
             <div class="form-group">
                 <label asp-for="Salary" class="form-label mt-2"></label>
-                <input class="form-control border border-secondary" asp-for="Salary" placeholder="Salary"/>
+                <input class="form-control border border-secondary" asp-for="Salary" placeholder="Salary" value="" />
                 <span asp-validation-for="Salary" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Age" class="form-label mt-2"></label>
-                <input class="form-control border border-secondary" asp-for="Age" placeholder="Age" />
+                <input class="form-control border border-secondary" asp-for="Age" placeholder="Age" value="" />
                 <span asp-validation-for="Age" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -55,9 +55,8 @@
             </div>
             <div class="form-group">
                 <label asp-for="SelectedProjects" class="form-label mt-2"></label>
-                <select class="form-select select2-multiple border border-secondary"
-                        asp-for="SelectedProjects"
-                        asp-items="Model.Projects" multiple="multiple">
+                <select id="projectSelect" class="form-select select2-multiple border border-secondary"
+                        asp-for="SelectedProjects" multiple="multiple">
                 </select>
                 <span asp-validation-for="SelectedProjects" class="text-danger"></span>
             </div>
@@ -85,12 +84,6 @@
     <partial name="_ValidationScriptsPartial" />
     <script src="~/js/employee-form.js" asp-append-version="true"></script>
     <script src="~/js/filesize-validator.js" asp-append-version="true"></script>
-    <script src="~/lib/select2/js/select2.min.js"></script>
-    <script>
-        $(document).ready(function () {
-            $('.select2-multiple').select2({
-                theme: "classic"
-            });
-        });
-    </script>
+    <script src="~/lib/select2/js/select2.min.js"></script> 
+    <script src="~/js/multi-selected-projects.js"></script>
 }

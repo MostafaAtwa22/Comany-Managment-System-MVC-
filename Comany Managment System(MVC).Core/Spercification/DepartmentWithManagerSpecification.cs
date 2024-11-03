@@ -11,13 +11,13 @@ namespace Comany_Managment_System_MVC_.Core.Spercification
     {
         public DepartmentWithManagerSpecification()
         {
-            Includes.Add(d => d.Manager);
+            Includes.Add(d => d.Manager!);
         }
 
         public DepartmentWithManagerSpecification(int id)
             :base(d => d.Id == id)
         {
-            Includes.Add(d => d.Manager);
+            Includes.Add(d => d.Manager!);
         }
     }
 }

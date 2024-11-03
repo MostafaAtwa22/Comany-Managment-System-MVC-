@@ -72,12 +72,17 @@ namespace Comany_Managment_System_MVC_.Controllers
             {
                 Departments = await _departmentService.GetSelectList(),
                 Projects = await _projectService.GetSelectList(),
-                GenderSelectList = Enum.GetValues(typeof(Gender)).Cast<Gender>()
+                Gender = -1,
+                GenderSelectList = new List<SelectListItem>
+                        {
+                            new SelectListItem { Value = "", Text = "Select a Gender", Selected = true }
+                        }
+                        .Concat(Enum.GetValues(typeof(Gender)).Cast<Gender>()
                             .Select(g => new SelectListItem
                             {
                                 Value = ((int)g).ToString(),
                                 Text = g.ToString()
-                            }).ToList()
+                            })).ToList()
             };
             return View(model);
         }
@@ -91,12 +96,16 @@ namespace Comany_Managment_System_MVC_.Controllers
             {
                 model.Departments = await _departmentService.GetSelectList();
                 model.Projects = await _projectService.GetSelectList();
-                model.GenderSelectList = Enum.GetValues(typeof(Gender)).Cast<Gender>()
+                model.GenderSelectList = new List<SelectListItem>
+                        {
+                            new SelectListItem { Value = "", Text = "Select Gender", Selected = true }
+                        }
+                        .Concat(Enum.GetValues(typeof(Gender)).Cast<Gender>()
                             .Select(g => new SelectListItem
                             {
                                 Value = ((int)g).ToString(),
                                 Text = g.ToString()
-                            }).ToList();
+                            })).ToList();
                 return View(model);
             }
 
@@ -125,11 +134,11 @@ namespace Comany_Managment_System_MVC_.Controllers
                 Age = employee.Age,
                 Salary = employee.Salary,
                 GenderSelectList = Enum.GetValues(typeof(Gender)).Cast<Gender>()
-                            .Select(g => new SelectListItem
-                            {
-                                Value = ((int)g).ToString(),
-                                Text = g.ToString()
-                            }).ToList(),
+                                .Select(g => new SelectListItem
+                                {
+                                    Value = ((int)g).ToString(),
+                                    Text = g.ToString()
+                                }).ToList(),
                 Projects = await _projectService.GetSelectList(),
                 Departments = await _departmentService.GetSelectList(),
                 SelectedProjects = employee.Projects.Select(p => p.Id).ToList()
@@ -187,6 +196,20 @@ namespace Comany_Managment_System_MVC_.Controllers
             return Json(employeeData);
         }
 
+        [HttpGet]
+        public async Task<IActionResult> GetEmployeesPerProject(int projectId)
+        {
+            var employees = await _employeeService.GetProjectsEmployees(projectId);
+
+            var employeeData = employees.Select(e => new {
+                Name = e.Name,
+                Age = e.Age,
+                Salary = e.Salary,
+                Image = e.Image
+            }).ToList();
+
+            return Json(employeeData);
+        }
 
         [HttpGet]
         public async Task<IActionResult> IsEmailUnique(string Email, int? Id)

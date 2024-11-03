@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Project>
+
+@{
+    ViewData["Title"] = "Projects";
+    Layout = "_DataLayout";
+}
+
+<div class="d-flex justify-content-center mt-4">
+    <a class="btn btn-secondary btn-lg" asp-action="Create" style="width: 280px;">
+        <i class="bi bi-plus-circle-dotted"></i>
+        Add Project
+    </a>
+</div>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-warning mt-5 text-center">
+        <h4 class="alert-heading">No Projects!</h4>
+        <p>No projects have been added yet.</p>
+    </div>
+}
+else
+{
+    <div class="container mt-5">
+        <!-- Search Bar -->
+        <div class="d-flex justify-content-center mb-5">
+            <input type="text" class="form-control search" placeholder="Search by project name..." style="width: 40%;">
+            <span class="counter-box ml-3">
+                <span class="counter"></span>
+            </span>
+        </div>
+
+        <div class="row results">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-4 col-md-6 mb-4 result-item" visible="true">
+                    <div class="card shadow department-card">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">@item.Name</h5>
+                            <p class="card-text">Location: @item.Location</p>
+                            <p class="card-text">Budget: @item.Budget.ToString("C")</p>
+                            <p class="card-text">Department: @item.Department.Name</p>
+                            <div class="mt-3">
+                                <div class="mb-2">
+                                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm button-half-width">
+                                        <i class="bi-eye"></i> Details
+                                    </a>
+                                </div>
+                                <div class="mb-2">
+                                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm button-half-width">
+                                        <i class="bi-pencil"></i> Edit
+                                    </a>
+                                </div>
+                                <div>
+                                    <a href="javascript:;" class="btn btn-danger btn-sm js-delete button-half-width" data-id="@item.Id">
+                                        <i class="bi-trash"></i> Delete
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+        <div class="alert alert-warning no-result mt-3" style="display: none;">
+            <i class="bi bi-exclamation-triangle"></i> No matching projects found.
+        </div>
+    </div>
+}
+
+
+@section Scripts {
+    <script src="~/js/project-index.js"></script>
+    <script src="~/js/search-bar-project-department.js"></script>
+}

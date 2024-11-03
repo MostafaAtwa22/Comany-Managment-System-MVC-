@@ -29,9 +29,10 @@
             <a id="employeesToggle" onclick="toggleEmployees(this, @Model.Id)" class="btn btn-outline-danger m-2 text-nowrap flex-grow-1 flex-md-grow-0" style="min-width: 120px;" role="button" aria-expanded="false" aria-controls="collapseEmployees">
                 <i class="bi bi-person-badge me-2"></i> Employees
             </a>
-            <a id="DeptId" onclick="GetEmployees(@Model.Id)" class="btn btn-primary m-2 text-nowrap flex-grow-1 flex-md-grow-0" style="min-width: 120px;">
+            <a id="ProjectsToggle" onclick="toggleProjects(this, @Model.Id)" class="btn btn-primary m-2 text-nowrap flex-grow-1 flex-md-grow-0" style="min-width: 120px;">
                 <i class="bi bi-building me-2"></i> Projects
             </a>
+
             <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning m-2 text-nowrap flex-grow-1 flex-md-grow-0" style="min-width: 120px;">
                 <i class="bi bi-pencil-square me-2"></i> Edit
             </a>
@@ -67,7 +68,7 @@
 
                 <div class="collapse" id="collapseProjects">
                     <div class="card card-body">
-                        <div id="ProjectsContainer" class="d-flex flex-column gap-3"></div>
+                        <div id="ProjectsContainer" class="row"></div>
                     </div>
                 </div>
             </div>
@@ -80,4 +81,5 @@
         const imagesPath = "@($"{FileSettings.ImagesPath}/Employees")";
     </script>
     <script src="~/js/employees-per-department.js"></script>
+    <script src="~/js/projects-per-department.js"></script>
 }

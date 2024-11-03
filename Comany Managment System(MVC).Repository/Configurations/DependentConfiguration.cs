@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Microsoft.EntityFrameworkCore;
 using Comany_Managment_System_MVC_.Core.Enums;
+using Company_Management_System_MVC_.Core.Enums;
 
 namespace Comany_Managment_System_MVC_.Repository.Configurations
 {
@@ -9,7 +10,7 @@ namespace Comany_Managment_System_MVC_.Repository.Configurations
     {
         public void Configure(EntityTypeBuilder<Dependent> builder)
         {
-            builder.HasKey(d => new { d.Name, d.EmployeeId });
+            builder.HasKey(d => d.Id);
 
             builder.Property(d => d.Id)
                 .ValueGeneratedOnAdd();
@@ -23,6 +24,12 @@ namespace Comany_Managment_System_MVC_.Repository.Configurations
                 .HasConversion(
                     e => e.ToString(),
                     e => (Gender)Enum.Parse(typeof(Gender), e)
+                );
+
+            builder.Property(e => e.Relation)
+                .HasConversion(
+                    e => e.ToString(),
+                    e => (Relation)Enum.Parse(typeof(Relation), e)
                 );
         }
     }

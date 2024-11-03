@@ -4,8 +4,8 @@
         var jobCount = 0;
 
         $(".result-item").each(function () {
-            var departmentName = $(this).find(".card-title").text().toLowerCase();
-            if (departmentName.includes(searchTerm)) {
+            var Name = $(this).find(".card-title").text().toLowerCase();
+            if (Name.includes(searchTerm)) {
                 $(this).attr("visible", "true").show();
                 jobCount++;
             } else {

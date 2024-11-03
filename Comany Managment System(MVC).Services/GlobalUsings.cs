@@ -5,3 +5,8 @@ global using Microsoft.AspNetCore.Http;
 global using Microsoft.AspNetCore.Mvc.Rendering;
 global using System.ComponentModel.DataAnnotations;
 global using Comany_Managment_System_MVC_.Core.Models;
+global using Microsoft.AspNetCore.Hosting;
+global using AutoMapper;
+global using Comany_Managment_System_MVC_.Core.Spercification;
+global using Comany_Managment_System_MVC_.Services.ViewModels.Employees;
+global using System.Linq.Expressions;
