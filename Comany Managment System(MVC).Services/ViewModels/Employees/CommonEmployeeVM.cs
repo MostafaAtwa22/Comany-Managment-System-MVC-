@@ -33,6 +33,11 @@ namespace Comany_Managment_System_MVC_.Services.ViewModels.Employees
         [Display(Name = "Gender")]
         public int Gender { get; set; }
 
+        [Required]
+        [MinLength(5), MaxLength(50)]
+        [Display(Name = "Job Title")]
+        public string JobTitle { get; set; } = string.Empty;
+
         public IEnumerable<SelectListItem> GenderSelectList { get; set; } = Enumerable.Empty<SelectListItem>();
 
         [Required]

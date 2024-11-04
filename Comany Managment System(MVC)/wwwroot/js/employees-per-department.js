@@ -37,6 +37,7 @@
                                 <h5 class="mb-0 text-info">${st.name}</h5>
                                 <p class="mb-0">Age: ${st.age}</p>
                                 <p class="mb-0">Salary: $${st.salary}</p>
+                                <p class="mb-0">Start Date: ${new Date(st.startDate).toLocaleDateString()}</p>
                             </div>
                             <img src="${imagesPath}/${st.image}" alt="${st.name}" style="width: 60px; height: 60px; object-fit: cover;">
                         </div>`;

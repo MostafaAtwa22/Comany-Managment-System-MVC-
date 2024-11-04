@@ -16,12 +16,15 @@
 }
 
 <div class="container mt-5 mb-lg-5">
-    <div class="d-flex justify-content-center mb-5">
-        <a class="btn btn-secondary btn-lg" asp-controller="Dependents" asp-action="Create" asp-route-id="@Model.Id" style="width: 280px;">
-            <i class="bi bi-plus-circle-dotted"></i>
-            Add Dependent
-        </a>
-    </div>
+    @if (User.IsInRole(RoleConsts.Admin))
+    {
+        <div class="d-flex justify-content-center mb-5">
+            <a class="btn btn-secondary btn-lg" asp-controller="Dependents" asp-action="Create" asp-route-id="@Model.Id" style="width: 280px;">
+                <i class="bi bi-plus-circle-dotted"></i>
+                Add Dependent
+            </a>
+        </div>
+    }
     <div class="card border-light rounded-3 shadow-lg overflow-hidden" style="background-color: #f8f9fa;">
         <div class="card-header text-center" style="background-color: #404356; color: white;">
             <h2 class="mb-0" style="color:white;">@Model.Name</h2>
@@ -38,6 +41,7 @@
                 <div class="col-md-8">
                     <h4 class="fw-bold">Details</h4>
                     <div class="info-list mb-4">
+                        <div class="info-item"><strong>Job Title:</strong> <span>@Model.JobTitle</span></div>
                         <div class="info-item"><strong>Age:</strong> <span>@Model.Age</span></div>
                         <div class="info-item"><strong>Salary:</strong> <span>@Model.Salary</span></div>
                         <div class="info-item"><strong>Email:</strong> <span>@Model.Email</span></div>

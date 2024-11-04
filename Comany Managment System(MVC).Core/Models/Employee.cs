@@ -17,6 +17,10 @@ namespace Comany_Managment_System_MVC_.Core.Models
         public decimal Salary { get; set; }
 
         [Required]
+        [MinLength(5), MaxLength(50)]
+        public string JobTitle { get; set; } = string.Empty;
+
+        [Required]
         public DateTime StartDate { get; set; }
 
         [Required]

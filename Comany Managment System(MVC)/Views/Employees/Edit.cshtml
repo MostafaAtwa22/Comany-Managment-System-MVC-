@@ -14,6 +14,7 @@
 
 <form asp-action="Edit" enctype="multipart/form-data" class="p-4 shadow-sm bg-white rounded">
     <input type="hidden" asp-for="Id" />
+    <input type="hidden" id="assignedProjects" value='@Html.Raw(Json.Serialize(Model.SelectedProjects))' />
     <div class="row">
         <div class="col-md-6">
             <div class="form-group">
@@ -22,24 +23,29 @@
                 <span asp-validation-for="Name" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Salary" class="form-label mt-4"></label>
+                <label asp-for="Salary" class="form-label mt-3"></label>
                 <input type="number" class="form-control border border-secondary" asp-for="Salary" placeholder="Salary">
                 <span asp-validation-for="Salary" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Age" class="form-label mt-4"></label>
+                <label asp-for="Age" class="form-label mt-3"></label>
                 <input type="number" class="form-control border border-secondary" asp-for="Age">
                 <span asp-validation-for="Age" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Address" class="form-label mt-4"></label>
+                <label asp-for="Address" class="form-label mt-3"></label>
                 <input class="form-control border border-secondary" asp-for="Address" placeholder="Address">
                 <span asp-validation-for="Address" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Email" class="form-label mt-4"></label>
+                <label asp-for="Email" class="form-label mt-3"></label>
                 <input class="form-control border border-secondary" asp-for="Email" placeholder="Email">
                 <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="JobTitle" class="form-label mt-3"></label>
+                <input type="text" class="form-control border border-secondary" asp-for="JobTitle" placeholder="Job Title" />
+                <span asp-validation-for="JobTitle" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Gender" class="form-label mt-4"></label>
@@ -57,7 +63,7 @@
             <div class="form-group">
                 <label asp-for="SelectedProjects" class="form-label mt-2"></label>
                 <select id="projectSelect" class="form-select select2-multiple border border-secondary"
-                        asp-for="SelectedProjects" multiple="multiple">
+                        asp-for="SelectedProjects" asp-items="Model.Projects" multiple="multiple">
                 </select>
                 <span asp-validation-for="SelectedProjects" class="text-danger"></span>
             </div>
@@ -85,11 +91,5 @@
     <script src="~/js/employee-form.js" asp-append-version="true"></script>
     <script src="~/js/filesize-validator.js" asp-append-version="true"></script>
     <script src="~/lib/select2/js/select2.min.js"></script>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css" rel="stylesheet" />
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css" rel="stylesheet" />
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
-    <script src="~/js/multi-selected-projects.js"></script>
+    <script src="~/js/multi-selected-projects-edit.js"></script>
 }

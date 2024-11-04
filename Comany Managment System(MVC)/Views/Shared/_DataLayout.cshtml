@@ -90,7 +90,7 @@
                         else if (User.IsInRole(RoleConsts.Manager))
                         {
                             <li><a asp-controller="Employees" asp-action="GetEmployeesUnderManager" asp-route-id="@User.FindFirst("EmployeeId")?.Value">Employees</a></li>
-                            <li><a asp-controller="Projects" asp-action="Index">Projects</a></li>
+                            <li><a asp-controller="Projects" asp-action="GetProjectsPerDepartment" asp-route-id="@User.FindFirst("EmployeeId")?.Value">Projects</a></li>
                         }
                         <li>
                             <a asp-controller="Employees" asp-action="Details" asp-route-id="@User.FindFirst("EmployeeId")?.Value"

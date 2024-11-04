@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Lw82Z9ekLI1HBdaYQMhx0XCiZJS2nu3OFQbIoRWcGpk=",
+  "Hash": "ts00aIkMEkzoXQcoeeONHZruHf6Chol9w3QhEWmq9qk=",
   "Source": "Comany Managment System(MVC)",
   "BasePath": "_content/Comany Managment System(MVC)",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\Dependents\\2cac8c3d-243b-4d58-8c45-695c7856a30a.jpeg"
+    },
+    {
+      "Identity": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\2dbde784-f4c1-490c-9b4d-bf83896ddf1a.jpeg",
+      "SourceId": "Comany Managment System(MVC)",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\",
+      "BasePath": "_content/Comany Managment System(MVC)",
+      "RelativePath": "assets/img/Dependents/2dbde784-f4c1-490c-9b4d-bf83896ddf1a.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\Dependents\\2dbde784-f4c1-490c-9b4d-bf83896ddf1a.jpeg"
     },
     {
       "Identity": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\49422ad0-ca05-41c0-b0bb-5652cfd58462.jpeg",
@@ -2430,12 +2449,12 @@
       "OriginalItemSpec": "wwwroot\\js\\filesize-validator.js"
     },
     {
-      "Identity": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\js\\multi-selected-projects.js",
+      "Identity": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\js\\multi-selected-projects-create.js",
       "SourceId": "Comany Managment System(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\",
       "BasePath": "_content/Comany Managment System(MVC)",
-      "RelativePath": "js/multi-selected-projects.js",
+      "RelativePath": "js/multi-selected-projects-create.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2446,7 +2465,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\multi-selected-projects.js"
+      "OriginalItemSpec": "wwwroot\\js\\multi-selected-projects-create.js"
+    },
+    {
+      "Identity": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\js\\multi-selected-projects-edit.js",
+      "SourceId": "Comany Managment System(MVC)",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\",
+      "BasePath": "_content/Comany Managment System(MVC)",
+      "RelativePath": "js/multi-selected-projects-edit.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\multi-selected-projects-edit.js"
     },
     {
       "Identity": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\js\\project-index.js",

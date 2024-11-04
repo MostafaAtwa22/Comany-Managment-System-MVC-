@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\assets\\img\\Dependents\\2cac8c3d-243b-4d58-8c45-695c7856a30a.jpeg"
     },
     {
+      "Id": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\2dbde784-f4c1-490c-9b4d-bf83896ddf1a.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Dependents\\2dbde784-f4c1-490c-9b4d-bf83896ddf1a.jpeg"
+    },
+    {
       "Id": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\49422ad0-ca05-41c0-b0bb-5652cfd58462.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Dependents\\49422ad0-ca05-41c0-b0bb-5652cfd58462.jpeg"
     },
@@ -505,8 +509,12 @@
       "PackagePath": "staticwebassets\\js\\filesize-validator.js"
     },
     {
-      "Id": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\js\\multi-selected-projects.js",
-      "PackagePath": "staticwebassets\\js\\multi-selected-projects.js"
+      "Id": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\js\\multi-selected-projects-create.js",
+      "PackagePath": "staticwebassets\\js\\multi-selected-projects-create.js"
+    },
+    {
+      "Id": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\js\\multi-selected-projects-edit.js",
+      "PackagePath": "staticwebassets\\js\\multi-selected-projects-edit.js"
     },
     {
       "Id": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\js\\project-index.js",

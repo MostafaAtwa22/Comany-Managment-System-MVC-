@@ -17,6 +17,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             _mapper = mapper;
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Project>>> Index()
         {
@@ -24,6 +25,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             return View(projects);
         }
 
+        [Authorize(Roles = "Admin,Manager,Employee")]
         [HttpGet]
         public async Task<ActionResult<Project>> Details(int id)
         {
@@ -31,6 +33,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             return View(project);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> Create()
         {
@@ -41,6 +44,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             return View(model);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(CreateProjectVM model)
@@ -56,6 +60,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> Edit(int id)
         {
@@ -70,6 +75,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             return View(model);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(EditProjectVM model)
@@ -88,6 +94,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpDelete]
         public async Task<IActionResult> Delete(int id)
         {
@@ -95,7 +102,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             return isDeleted ? Ok() : BadRequest();
         }
 
-
+        [Authorize(Roles = "Admin,Manager,Employee")]
         [HttpGet]
         public async Task<IActionResult> GetProjectsPerDepartment(int deptId)
         {

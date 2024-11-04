@@ -23,6 +23,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             _mapper = mapper;
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Dependent>>> Index()
         {
@@ -30,6 +31,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             return View(dependents);
         }
 
+        [Authorize(Roles = "Admin,Manager,Employee")]
         [HttpGet]
         public async Task<ActionResult<Dependent>> Details(int id)
         {
@@ -41,6 +43,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             return View(dependent);
         }
 
+        [Authorize(Roles = "Admin,Manager,Employee")]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Dependent?>>> GetEmployeesDependents(int id)
         {
@@ -48,6 +51,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             return View("Index", dependents);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public IActionResult Create(int id)
         {
@@ -80,6 +84,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             return View(model);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(CreateDependentVM model, int id)

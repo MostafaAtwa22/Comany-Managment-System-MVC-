@@ -131,21 +131,26 @@ namespace Comany_Managment_System_MVC_.Controllers
                 Address = employee.Address,
                 CurrentImage = employee.Image,
                 DepartmentId = employee.DepartmentId,
+                JobTitle = employee.JobTitle,
                 Age = employee.Age,
                 Salary = employee.Salary,
-                GenderSelectList = Enum.GetValues(typeof(Gender)).Cast<Gender>()
-                                .Select(g => new SelectListItem
-                                {
-                                    Value = ((int)g).ToString(),
-                                    Text = g.ToString()
-                                }).ToList(),
+                Gender = (int)employee.Gender, 
                 Projects = await _projectService.GetSelectList(),
                 Departments = await _departmentService.GetSelectList(),
                 SelectedProjects = employee.Projects.Select(p => p.Id).ToList()
             };
 
+            model.GenderSelectList = Enum.GetValues(typeof(Gender)).Cast<Gender>()
+                .Select(g => new SelectListItem
+                {
+                    Value = ((int)g).ToString(),
+                    Text = g.ToString(),
+                    Selected = g == employee.Gender 
+                }).ToList();
+
             return View(model);
         }
+
 
         [Authorize(Roles = "Admin")]
         [HttpPost]
@@ -181,6 +186,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             return isDeleted ? Ok() : BadRequest();
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> GetEmployeesPerDepartment(int deptId)
         {
@@ -191,11 +197,13 @@ namespace Comany_Managment_System_MVC_.Controllers
                 Age = e.Age,
                 Salary = e.Salary,
                 Image = e.Image,
+                StartDate = e.StartDate,
             }).ToList();
 
             return Json(employeeData);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> GetEmployeesPerProject(int projectId)
         {
@@ -211,6 +219,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             return Json(employeeData);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> IsEmailUnique(string Email, int? Id)
         {
