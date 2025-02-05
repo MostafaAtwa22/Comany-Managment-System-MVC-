@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Comany Managment System(MVC).bundle.scp.css",
-      "PackagePath": "staticwebassets\\Comany Managment System(MVC).bundle.scp.css"
+      "PackagePath": "staticwebassets\\Comany Managment System(MVC).ilrj8rcu7t.bundle.scp.css"
     },
     {
       "Id": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\assets\\css\\main.css",
@@ -1271,6 +1271,10 @@
     {
       "Id": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC)\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
       "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Comany Managment System(MVC).Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Comany Managment System(MVC).Microsoft.AspNetCore.StaticWebAssets.props",

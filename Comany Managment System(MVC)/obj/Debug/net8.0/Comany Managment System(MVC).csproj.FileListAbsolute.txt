@@ -278,3 +278,7 @@ D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\bi
 D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\bin\Debug\net8.0\MailKit.dll
 D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\bin\Debug\net8.0\MimeKit.dll
 D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\obj\Debug\net8.0\Comany Managment System(MVC).MvcApplicationPartsAssemblyInfo.cs
+D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\bin\Debug\net8.0\Comany Managment System(MVC).staticwebassets.endpoints.json
+D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\obj\Debug\net8.0\staticwebassets\msbuild.Comany Managment System(MVC).Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC)\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
