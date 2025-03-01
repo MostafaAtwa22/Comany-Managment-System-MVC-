@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2RJT1PS17iA=",
+  "dgSpecHash": "AlfgBGf78Sc=",
   "success": true,
-  "projectFilePath": "D:\\programming\\DEPI\\Comany Managment System(MVC)\\Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj",
+  "projectFilePath": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\atwam\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\atwam\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

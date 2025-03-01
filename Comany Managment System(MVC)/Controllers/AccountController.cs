@@ -121,7 +121,7 @@ namespace Comany_Managment_System_MVC_.Controllers
                 {
                     var token = await _userManager.GeneratePasswordResetTokenAsync(user);
 
-                    var passResetLink = Url.Action(nameof(ForgetPassword),
+                    var passResetLink = Url.Action(nameof(ResetPassword),
                     "Account",
                     new { email = model.Email, token = token },
                     protocol: Request.Scheme);  

@@ -16,3 +16,39 @@ D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC).Se
 D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC).Services\obj\Debug\net8.0\Comany M.3147EF0B.Up2Date
 D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC).Services\bin\Debug\net8.0\Comany Managment System(MVC).Repository.dll
 D:\programming\DEPI\Comany Managment System(MVC)\Comany Managment System(MVC).Services\bin\Debug\net8.0\Comany Managment System(MVC).Repository.pdb
+C:\Users\atwam\Source\Repos\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\bin\Debug\net8.0\Comany Managment System(MVC).Services.deps.json
+C:\Users\atwam\Source\Repos\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\bin\Debug\net8.0\Comany Managment System(MVC).Services.dll
+C:\Users\atwam\Source\Repos\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\bin\Debug\net8.0\Comany Managment System(MVC).Services.pdb
+C:\Users\atwam\Source\Repos\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\bin\Debug\net8.0\Comany Managment System(MVC).Core.dll
+C:\Users\atwam\Source\Repos\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\bin\Debug\net8.0\Comany Managment System(MVC).Repository.dll
+C:\Users\atwam\Source\Repos\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\bin\Debug\net8.0\Comany Managment System(MVC).Core.pdb
+C:\Users\atwam\Source\Repos\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\bin\Debug\net8.0\Comany Managment System(MVC).Repository.pdb
+C:\Users\atwam\Source\Repos\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\Comany Managment System(MVC).Services.csproj.AssemblyReference.cache
+C:\Users\atwam\Source\Repos\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\Comany Managment System(MVC).Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atwam\Source\Repos\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\Comany Managment System(MVC).Services.AssemblyInfoInputs.cache
+C:\Users\atwam\Source\Repos\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\Comany Managment System(MVC).Services.AssemblyInfo.cs
+C:\Users\atwam\Source\Repos\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\Comany Managment System(MVC).Services.csproj.CoreCompileInputs.cache
+C:\Users\atwam\Source\Repos\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\Comany Managment System(MVC).Services.sourcelink.json
+C:\Users\atwam\Source\Repos\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\Comany M.3147EF0B.Up2Date
+C:\Users\atwam\Source\Repos\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\Comany Managment System(MVC).Services.dll
+C:\Users\atwam\Source\Repos\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\refint\Comany Managment System(MVC).Services.dll
+C:\Users\atwam\Source\Repos\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\Comany Managment System(MVC).Services.pdb
+C:\Users\atwam\Source\Repos\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\ref\Comany Managment System(MVC).Services.dll
+D:\programming\Backend\MVC Projects\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\bin\Debug\net8.0\Comany Managment System(MVC).Services.deps.json
+D:\programming\Backend\MVC Projects\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\bin\Debug\net8.0\Comany Managment System(MVC).Services.dll
+D:\programming\Backend\MVC Projects\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\bin\Debug\net8.0\Comany Managment System(MVC).Services.pdb
+D:\programming\Backend\MVC Projects\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\bin\Debug\net8.0\Comany Managment System(MVC).Core.dll
+D:\programming\Backend\MVC Projects\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\bin\Debug\net8.0\Comany Managment System(MVC).Repository.dll
+D:\programming\Backend\MVC Projects\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\bin\Debug\net8.0\Comany Managment System(MVC).Core.pdb
+D:\programming\Backend\MVC Projects\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\bin\Debug\net8.0\Comany Managment System(MVC).Repository.pdb
+D:\programming\Backend\MVC Projects\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\Comany Managment System(MVC).Services.csproj.AssemblyReference.cache
+D:\programming\Backend\MVC Projects\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\Comany Managment System(MVC).Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Backend\MVC Projects\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\Comany Managment System(MVC).Services.AssemblyInfoInputs.cache
+D:\programming\Backend\MVC Projects\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\Comany Managment System(MVC).Services.AssemblyInfo.cs
+D:\programming\Backend\MVC Projects\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\Comany Managment System(MVC).Services.csproj.CoreCompileInputs.cache
+D:\programming\Backend\MVC Projects\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\Comany Managment System(MVC).Services.sourcelink.json
+D:\programming\Backend\MVC Projects\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\Comany M.3147EF0B.Up2Date
+D:\programming\Backend\MVC Projects\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\Comany Managment System(MVC).Services.dll
+D:\programming\Backend\MVC Projects\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\refint\Comany Managment System(MVC).Services.dll
+D:\programming\Backend\MVC Projects\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\Comany Managment System(MVC).Services.pdb
+D:\programming\Backend\MVC Projects\Comany-Managment-System-MVC-\Comany Managment System(MVC).Services\obj\Debug\net8.0\ref\Comany Managment System(MVC).Services.dll

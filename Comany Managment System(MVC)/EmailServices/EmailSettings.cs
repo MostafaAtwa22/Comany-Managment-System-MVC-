@@ -1,5 +1,6 @@
 ﻿using MailKit.Net.Smtp;
 using Microsoft.Extensions.Options;
+using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages.Manage;
 using MimeKit;
 
 namespace Comany_Managment_System_MVC_.EmailServices
@@ -15,34 +16,30 @@ namespace Comany_Managment_System_MVC_.EmailServices
 
         public void SendEmail(EmailVM email)
         {
-            try
+            if (string.IsNullOrEmpty(email.To))
             {
-                var mail = new MimeMessage()
-                {
-                    Sender = MailboxAddress.Parse(_options.Email),
-                    Subject = email.Subject
-                };
-
-                mail.To.Add(MailboxAddress.Parse(email.To));
-                var builder = new BodyBuilder
-                {
-                    HtmlBody = email.Body
-                };
-                mail.Body = builder.ToMessageBody();
-                mail.From.Add(new MailboxAddress(_options.DisplayName, _options.Email));
-
-                using var smtp = new SmtpClient();
-                if (_options.Port <= 0)
-                    throw new InvalidOperationException("Invalid port number.");
-                smtp.Connect(_options.Host, _options.Port, MailKit.Security.SecureSocketOptions.StartTls);
-                smtp.Authenticate(_options.Email, _options.Password);
-                smtp.Send(mail);
-                smtp.Disconnect(true);
+                throw new ArgumentException("The 'To' field cannot be null or empty.");
             }
-            catch (Exception ex)
+
+            var mail = new MimeMessage()
             {
-                throw new Exception($"Error sending email: {ex.Message}");
-            }
+                Sender = MailboxAddress.Parse(_options.Email),
+                Subject = email.Subject
+            };
+
+            mail.To.Add(MailboxAddress.Parse(email.To));
+            var builder = new BodyBuilder();
+            builder.HtmlBody = email.Body;
+            mail.Body = builder.ToMessageBody();
+
+            mail.From.Add(new MailboxAddress(_options.DisplayName, _options.Email));
+
+            using var smtp = new SmtpClient();
+
+            smtp.Connect(_options.Host, _options.Port, MailKit.Security.SecureSocketOptions.StartTls);
+            smtp.Authenticate(_options.Email, _options.Password);
+            smtp.Send(mail);
+            smtp.Disconnect(true);
         }
     }
 }
