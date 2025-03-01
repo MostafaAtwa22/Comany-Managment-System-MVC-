@@ -75,10 +75,6 @@
                             <li><a asp-controller="Projects" asp-action="Index">Projects</a></li>
                             <li><a asp-controller="Dependents" asp-action="Index">Dependents</a></li>
                         }
-                        else if (User.IsInRole(RoleConsts.Employee))
-                        {
-                            <li><a asp-controller="Projects" asp-action="Index">Project</a></li>
-                        }
                         else if (User.IsInRole(RoleConsts.Manager))
                         {
                             <li><a asp-controller="Employees" asp-action="GetEmployeesUnderManager" asp-route-id="@User.FindFirst("EmployeeId")?.Value">Employees</a></li>

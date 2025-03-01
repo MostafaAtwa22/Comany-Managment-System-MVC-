@@ -17,7 +17,7 @@ namespace Comany_Managment_System_MVC_.Controllers
             _mapper = mapper;
         }
 
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin, Manager")]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Project>>> Index()
         {

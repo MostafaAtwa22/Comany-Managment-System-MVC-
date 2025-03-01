@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\",
+  "WorkspaceRootPath": "C:\\Users\\atwam\\source\\repos\\Comany-Managment-System-MVC-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|d:\\programming\\backend\\mvc projects\\comany-managment-system-mvc-\\comany managment system(mvc)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|c:\\users\\atwam\\source\\repos\\comany-managment-system-mvc-\\comany managment system(mvc)\\views\\shared\\_datalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\views\\shared\\_datalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|c:\\users\\atwam\\source\\repos\\comany-managment-system-mvc-\\comany managment system(mvc)\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|c:\\users\\atwam\\source\\repos\\comany-managment-system-mvc-\\comany managment system(mvc)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|c:\\users\\atwam\\source\\repos\\comany-managment-system-mvc-\\comany managment system(mvc)\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|c:\\users\\atwam\\source\\repos\\comany-managment-system-mvc-\\comany managment system(mvc)\\views\\employees\\getmanagers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1180A06D-BBAE-4696-8A16-97826ABBE979}|Comany Managment System(MVC)\\Comany Managment System(MVC).csproj|solutionrelative:comany managment system(mvc)\\views\\employees\\getmanagers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,15 +58,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\atwam\\source\\repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\atwam\\source\\repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Comany Managment System(MVC)\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAUBAAAAAAAAAAAAABsBAABNAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T20:04:50.892Z",
+              "WhenOpened": "2025-03-01T22:11:56.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\atwam\\source\\repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\atwam\\source\\repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "Comany Managment System(MVC)\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T22:11:27.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_DataLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\atwam\\source\\repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Views\\Shared\\_DataLayout.cshtml",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Views\\Shared\\_DataLayout.cshtml",
+              "ToolTip": "C:\\Users\\atwam\\source\\repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Views\\Shared\\_DataLayout.cshtml",
+              "RelativeToolTip": "Comany Managment System(MVC)\\Views\\Shared\\_DataLayout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T22:10:44.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\atwam\\source\\repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\atwam\\source\\repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "Comany Managment System(MVC)\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T22:10:19.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetManagers.cshtml",
+              "DocumentMoniker": "C:\\Users\\atwam\\source\\repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Views\\Employees\\GetManagers.cshtml",
+              "RelativeDocumentMoniker": "Comany Managment System(MVC)\\Views\\Employees\\GetManagers.cshtml",
+              "ToolTip": "C:\\Users\\atwam\\source\\repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Views\\Employees\\GetManagers.cshtml",
+              "RelativeToolTip": "Comany Managment System(MVC)\\Views\\Employees\\GetManagers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T22:09:45.854Z",
               "EditorCaption": ""
             }
           ]

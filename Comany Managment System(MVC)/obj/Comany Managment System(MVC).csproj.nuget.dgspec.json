@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Comany Managment System(MVC).csproj": {}
+    "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Comany Managment System(MVC).csproj": {}
   },
   "projects": {
-    "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj": {
+    "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj",
+        "projectUniqueName": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj",
         "projectName": "Comany Managment System(MVC).Core",
-        "projectPath": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj",
+        "projectPath": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj",
         "packagesPath": "C:\\Users\\atwam\\.nuget\\packages\\",
-        "outputPath": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\obj\\",
+        "outputPath": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -83,14 +83,14 @@
         }
       }
     },
-    "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj": {
+    "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj",
+        "projectUniqueName": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj",
         "projectName": "Comany Managment System(MVC).Repository",
-        "projectPath": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj",
+        "projectPath": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj",
         "packagesPath": "C:\\Users\\atwam\\.nuget\\packages\\",
-        "outputPath": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Repository\\obj\\",
+        "outputPath": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -111,8 +111,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj": {
-                "projectPath": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj"
+              "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj": {
+                "projectPath": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj"
               }
             }
           }
@@ -158,14 +158,14 @@
         }
       }
     },
-    "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj": {
+    "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj",
+        "projectUniqueName": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj",
         "projectName": "Comany Managment System(MVC).Services",
-        "projectPath": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj",
+        "projectPath": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj",
         "packagesPath": "C:\\Users\\atwam\\.nuget\\packages\\",
-        "outputPath": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Services\\obj\\",
+        "outputPath": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -186,11 +186,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj": {
-                "projectPath": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj"
+              "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj": {
+                "projectPath": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj"
               },
-              "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj": {
-                "projectPath": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj"
+              "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj": {
+                "projectPath": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj"
               }
             }
           }
@@ -236,14 +236,14 @@
         }
       }
     },
-    "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Comany Managment System(MVC).csproj": {
+    "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Comany Managment System(MVC).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Comany Managment System(MVC).csproj",
+        "projectUniqueName": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Comany Managment System(MVC).csproj",
         "projectName": "Comany Managment System(MVC)",
-        "projectPath": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Comany Managment System(MVC).csproj",
+        "projectPath": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\Comany Managment System(MVC).csproj",
         "packagesPath": "C:\\Users\\atwam\\.nuget\\packages\\",
-        "outputPath": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\obj\\",
+        "outputPath": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -264,14 +264,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj": {
-                "projectPath": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj"
+              "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj": {
+                "projectPath": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Core\\Comany Managment System(MVC).Core.csproj"
               },
-              "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj": {
-                "projectPath": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj"
+              "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj": {
+                "projectPath": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Repository\\Comany Managment System(MVC).Repository.csproj"
               },
-              "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj": {
-                "projectPath": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj"
+              "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj": {
+                "projectPath": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC).Services\\Comany Managment System(MVC).Services.csproj"
               }
             }
           }

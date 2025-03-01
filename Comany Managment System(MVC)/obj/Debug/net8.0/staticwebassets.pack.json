@@ -1,1275 +1,1275 @@
 {
   "Files": [
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Comany Managment System(MVC).bundle.scp.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Comany Managment System(MVC).bundle.scp.css",
       "PackagePath": "staticwebassets\\Comany Managment System(MVC).ilrj8rcu7t.bundle.scp.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\css\\main.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\css\\main.css",
       "PackagePath": "staticwebassets\\assets\\css\\main.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\DEPI.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\DEPI.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\DEPI.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\2c675d0c-73af-43fe-b544-b17b990420fb.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\2c675d0c-73af-43fe-b544-b17b990420fb.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Dependents\\2c675d0c-73af-43fe-b544-b17b990420fb.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\2cac8c3d-243b-4d58-8c45-695c7856a30a.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\2cac8c3d-243b-4d58-8c45-695c7856a30a.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Dependents\\2cac8c3d-243b-4d58-8c45-695c7856a30a.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\2dbde784-f4c1-490c-9b4d-bf83896ddf1a.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\2dbde784-f4c1-490c-9b4d-bf83896ddf1a.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Dependents\\2dbde784-f4c1-490c-9b4d-bf83896ddf1a.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\49422ad0-ca05-41c0-b0bb-5652cfd58462.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\49422ad0-ca05-41c0-b0bb-5652cfd58462.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Dependents\\49422ad0-ca05-41c0-b0bb-5652cfd58462.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\4e8ca7f2-56f3-4f97-8de1-757f33a0f9e4.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\4e8ca7f2-56f3-4f97-8de1-757f33a0f9e4.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Dependents\\4e8ca7f2-56f3-4f97-8de1-757f33a0f9e4.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\5e1515ba-29b4-4077-8375-30af796fc48d.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\5e1515ba-29b4-4077-8375-30af796fc48d.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Dependents\\5e1515ba-29b4-4077-8375-30af796fc48d.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\7cf7aeff-7adf-48ab-b96a-eb9d3a2f3688.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\7cf7aeff-7adf-48ab-b96a-eb9d3a2f3688.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Dependents\\7cf7aeff-7adf-48ab-b96a-eb9d3a2f3688.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\8acc40f7-06e0-4ffb-9400-056a8a898bec.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\8acc40f7-06e0-4ffb-9400-056a8a898bec.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Dependents\\8acc40f7-06e0-4ffb-9400-056a8a898bec.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\91219b6f-d61e-46b9-8708-eec815297e7f.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\91219b6f-d61e-46b9-8708-eec815297e7f.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Dependents\\91219b6f-d61e-46b9-8708-eec815297e7f.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\b093304a-ba8f-4c63-a1f7-337480e785e9.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\b093304a-ba8f-4c63-a1f7-337480e785e9.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Dependents\\b093304a-ba8f-4c63-a1f7-337480e785e9.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\bffc75e0-b2e2-42e4-a449-4bc9987dba01.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Dependents\\bffc75e0-b2e2-42e4-a449-4bc9987dba01.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Dependents\\bffc75e0-b2e2-42e4-a449-4bc9987dba01.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\0c5bbc53-e696-4005-8111-b70bc1cb6fe0.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\0c5bbc53-e696-4005-8111-b70bc1cb6fe0.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\0c5bbc53-e696-4005-8111-b70bc1cb6fe0.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\200f5196-658a-4f77-8239-3aa92684ce0d.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\200f5196-658a-4f77-8239-3aa92684ce0d.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\200f5196-658a-4f77-8239-3aa92684ce0d.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\26848c64-4ef3-4563-bc43-472648d7f63c.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\26848c64-4ef3-4563-bc43-472648d7f63c.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\26848c64-4ef3-4563-bc43-472648d7f63c.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\2fd5d9fb-c5c8-4b5a-aedc-c248174acee3.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\2fd5d9fb-c5c8-4b5a-aedc-c248174acee3.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\2fd5d9fb-c5c8-4b5a-aedc-c248174acee3.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\53734d7b-d654-4c26-8029-bd63d5fd9fe4.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\53734d7b-d654-4c26-8029-bd63d5fd9fe4.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\53734d7b-d654-4c26-8029-bd63d5fd9fe4.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\6f7d687e-366e-4a48-b77a-b4149e7c52ac.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\6f7d687e-366e-4a48-b77a-b4149e7c52ac.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\6f7d687e-366e-4a48-b77a-b4149e7c52ac.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\83b99489-babf-4e9e-8cc6-305a3f1027a4.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\83b99489-babf-4e9e-8cc6-305a3f1027a4.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\83b99489-babf-4e9e-8cc6-305a3f1027a4.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\8abcf1e3-1e37-4afa-bbf1-281940c837c7.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\8abcf1e3-1e37-4afa-bbf1-281940c837c7.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\8abcf1e3-1e37-4afa-bbf1-281940c837c7.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\a48bf54b-ba32-4ecc-9c65-bb57d5f86ddf.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\a48bf54b-ba32-4ecc-9c65-bb57d5f86ddf.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\a48bf54b-ba32-4ecc-9c65-bb57d5f86ddf.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\a92b37eb-d017-4f46-a3e1-f50c68cd765e.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\a92b37eb-d017-4f46-a3e1-f50c68cd765e.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\a92b37eb-d017-4f46-a3e1-f50c68cd765e.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\b4065992-19dd-4f06-8a83-f229ad66d166.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\b4065992-19dd-4f06-8a83-f229ad66d166.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\b4065992-19dd-4f06-8a83-f229ad66d166.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\ccf2455a-dece-461e-bfb1-936940622e84.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\ccf2455a-dece-461e-bfb1-936940622e84.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\ccf2455a-dece-461e-bfb1-936940622e84.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\d359f61b-293b-42d0-8d91-387a24ccfba6.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\d359f61b-293b-42d0-8d91-387a24ccfba6.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\d359f61b-293b-42d0-8d91-387a24ccfba6.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\dfbdbd8d-202a-47cd-91e3-8f39b01719c1.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\dfbdbd8d-202a-47cd-91e3-8f39b01719c1.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\dfbdbd8d-202a-47cd-91e3-8f39b01719c1.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\e7fac5ca-c3db-44d9-9d30-bcc30539ad61.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\e7fac5ca-c3db-44d9-9d30-bcc30539ad61.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\e7fac5ca-c3db-44d9-9d30-bcc30539ad61.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\f1ed639b-153f-4cb1-84f1-948515d04d65.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\f1ed639b-153f-4cb1-84f1-948515d04d65.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\f1ed639b-153f-4cb1-84f1-948515d04d65.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\f4c9a525-2b89-4e4b-844d-53dec6a3e4c7.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\f4c9a525-2b89-4e4b-844d-53dec6a3e4c7.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\f4c9a525-2b89-4e4b-844d-53dec6a3e4c7.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\f7ed2030-6f65-4403-a333-1b4adbe41b53.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\f7ed2030-6f65-4403-a333-1b4adbe41b53.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\f7ed2030-6f65-4403-a333-1b4adbe41b53.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\f9cbcc71-522d-48b2-9983-70d257bf20db.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\Employees\\f9cbcc71-522d-48b2-9983-70d257bf20db.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Employees\\f9cbcc71-522d-48b2-9983-70d257bf20db.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\apple-touch-icon.png",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\apple-touch-icon.png",
       "PackagePath": "staticwebassets\\assets\\img\\apple-touch-icon.png"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\favicon.png",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\favicon.png",
       "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\logo.png",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\logo.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo.png"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\team\\Atwa.png",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\team\\Atwa.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\Atwa.png"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\team\\Yasser.jpeg",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\img\\team\\Yasser.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\Yasser.jpeg"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\js\\main.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\assets\\js\\main.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\scss\\Readme.txt",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\scss\\Readme.txt",
       "PackagePath": "staticwebassets\\assets\\scss\\Readme.txt"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\animate.css\\animate.compat.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\animate.css\\animate.compat.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\animate.css\\animate.compat.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\animate.css\\animate.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\animate.css\\animate.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\animate.css\\animate.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\animate.css\\animate.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\animate.css\\animate.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\animate.css\\animate.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.cjs.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\aos\\aos.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\aos\\aos.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\aos\\aos.esm.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\aos\\aos.esm.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.esm.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\aos\\aos.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\aos\\aos.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\aos\\aos.js.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\aos\\aos.js.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\prb.txt",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\css\\prb.txt",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\prb.txt"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\bootstrap-icons\\font\\bootstrap-icons.css",
       "PackagePath": "staticwebassets\\bootstrap-icons\\font\\bootstrap-icons.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\bootstrap-icons\\font\\bootstrap-icons.min.css",
       "PackagePath": "staticwebassets\\bootstrap-icons\\font\\bootstrap-icons.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\bootstrap\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\bootstrap\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\bootstrap\\scss\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\bootstrap\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\css\\animation.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\css\\animation.css",
       "PackagePath": "staticwebassets\\css\\animation.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\department-index.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\department-index.js",
       "PackagePath": "staticwebassets\\js\\department-index.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\dependent-index.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\dependent-index.js",
       "PackagePath": "staticwebassets\\js\\dependent-index.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\employee-form.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\employee-form.js",
       "PackagePath": "staticwebassets\\js\\employee-form.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\employee-index.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\employee-index.js",
       "PackagePath": "staticwebassets\\js\\employee-index.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\employees-per-department.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\employees-per-department.js",
       "PackagePath": "staticwebassets\\js\\employees-per-department.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\employees-per-project.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\employees-per-project.js",
       "PackagePath": "staticwebassets\\js\\employees-per-project.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\filesize-validator.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\filesize-validator.js",
       "PackagePath": "staticwebassets\\js\\filesize-validator.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\multi-selected-projects-create.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\multi-selected-projects-create.js",
       "PackagePath": "staticwebassets\\js\\multi-selected-projects-create.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\multi-selected-projects-edit.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\multi-selected-projects-edit.js",
       "PackagePath": "staticwebassets\\js\\multi-selected-projects-edit.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\project-index.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\project-index.js",
       "PackagePath": "staticwebassets\\js\\project-index.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\projects-per-department.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\projects-per-department.js",
       "PackagePath": "staticwebassets\\js\\projects-per-department.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\search-bar-employee-dependent.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\search-bar-employee-dependent.js",
       "PackagePath": "staticwebassets\\js\\search-bar-employee-dependent.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\search-bar-project-department.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\search-bar-project-department.js",
       "PackagePath": "staticwebassets\\js\\search-bar-project-department.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\css\\select2.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\css\\select2.css",
       "PackagePath": "staticwebassets\\lib\\select2\\css\\select2.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\css\\select2.min.css",
       "PackagePath": "staticwebassets\\lib\\select2\\css\\select2.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\af.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\af.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\af.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\af.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\af.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\af.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ar.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ar.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ar.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ar.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ar.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ar.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\az.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\az.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\az.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\az.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\az.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\az.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\bg.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\bg.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\bg.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\bg.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\bg.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\bg.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\bn.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\bn.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\bn.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\bn.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\bn.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\bn.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\bs.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\bs.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\bs.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\bs.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\bs.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\bs.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ca.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ca.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ca.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ca.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ca.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ca.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\cs.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\cs.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\cs.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\cs.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\cs.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\cs.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\da.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\da.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\da.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\da.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\da.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\da.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\de.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\de.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\de.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\de.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\de.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\de.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\dsb.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\dsb.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\dsb.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\dsb.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\dsb.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\dsb.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\el.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\el.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\el.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\el.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\el.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\el.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\en.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\en.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\en.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\en.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\en.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\en.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\es.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\es.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\es.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\es.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\es.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\es.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\et.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\et.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\et.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\et.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\et.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\et.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\eu.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\eu.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\eu.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\eu.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\eu.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\eu.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\fa.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\fa.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\fa.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\fa.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\fa.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\fa.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\fi.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\fi.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\fi.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\fi.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\fi.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\fi.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\fr.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\fr.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\fr.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\fr.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\fr.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\fr.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\gl.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\gl.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\gl.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\gl.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\gl.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\gl.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\he.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\he.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\he.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\he.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\he.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\he.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hi.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hi.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hi.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hi.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hi.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hi.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hr.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hr.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hr.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hr.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hr.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hr.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hsb.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hsb.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hsb.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hsb.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hsb.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hsb.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hu.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hu.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hu.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hu.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hu.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hu.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hy.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hy.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hy.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hy.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\hy.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\hy.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\id.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\id.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\id.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\id.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\id.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\id.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\is.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\is.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\is.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\is.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\is.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\is.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\it.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\it.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\it.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\it.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\it.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\it.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ja.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ja.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ja.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ja.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ja.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ja.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ka.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ka.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ka.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ka.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ka.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ka.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\km.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\km.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\km.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\km.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\km.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\km.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ko.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ko.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ko.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ko.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ko.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ko.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\lt.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\lt.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\lt.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\lt.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\lt.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\lt.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\lv.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\lv.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\lv.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\lv.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\lv.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\lv.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\mk.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\mk.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\mk.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\mk.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\mk.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\mk.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ms.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ms.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ms.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ms.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ms.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ms.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\nb.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\nb.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\nb.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\nb.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\nb.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\nb.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ne.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ne.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ne.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ne.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ne.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ne.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\nl.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\nl.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\nl.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\nl.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\nl.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\nl.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\pl.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\pl.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\pl.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\pl.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\pl.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\pl.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ps.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ps.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ps.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ps.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ps.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ps.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\pt-br.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\pt-br.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\pt-br.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\pt-br.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\pt-br.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\pt-br.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\pt.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\pt.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\pt.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\pt.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\pt.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\pt.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ro.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ro.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ro.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ro.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ro.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ro.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ru.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ru.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ru.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ru.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\ru.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\ru.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sk.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sk.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sk.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sk.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sk.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sk.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sl.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sl.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sl.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sl.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sl.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sl.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sq.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sq.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sq.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sq.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sq.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sq.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sr-cyrl.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sr-cyrl.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sr-cyrl.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sr-cyrl.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sr-cyrl.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sr-cyrl.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sr.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sr.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sr.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sr.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sr.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sr.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sv.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sv.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sv.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sv.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\sv.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\sv.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\th.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\th.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\th.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\th.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\th.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\th.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\tk.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\tk.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\tk.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\tk.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\tk.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\tk.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\tr.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\tr.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\tr.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\tr.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\tr.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\tr.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\uk.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\uk.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\uk.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\uk.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\uk.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\uk.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\vi.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\vi.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\vi.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\vi.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\vi.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\vi.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\zh-cn.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\zh-cn.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\zh-cn.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\zh-cn.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\zh-cn.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\zh-cn.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\zh-tw.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\zh-tw.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\zh-tw.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\zh-tw.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\i18n\\zh-tw.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\i18n\\zh-tw.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\select2.full.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\select2.full.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.full.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\select2.full.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\select2.full.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.full.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\select2.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\select2.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\select2\\js\\select2.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\sweetalert2\\sweetalert2.esm.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\sweetalert2\\sweetalert2.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.esm.min.js"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.css",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.css",
       "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.css"
     },
     {
-      "Id": "D:\\programming\\Backend\\MVC Projects\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
+      "Id": "C:\\Users\\atwam\\Source\\Repos\\Comany-Managment-System-MVC-\\Comany Managment System(MVC)\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
       "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.js"
     },
     {

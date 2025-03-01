@@ -5,16 +5,6 @@
     Layout = "~/Views/Shared/_DataLayout.cshtml";
 }
 
-@if (User.IsInRole(RoleConsts.Manager))
-{
-    <div class="d-flex justify-content-center mt-4">
-        <a class="btn btn-secondary btn-lg" asp-controller="Tasks" asp-action="Create" asp-route-id="@Model.Id" style="width: 280px;">
-            <i class="bi bi-plus-circle-dotted"></i>
-            Add Task
-        </a>
-    </div>
-}
-
 <div class="container mt-5 mb-lg-5">
     @if (User.IsInRole(RoleConsts.Admin))
     {

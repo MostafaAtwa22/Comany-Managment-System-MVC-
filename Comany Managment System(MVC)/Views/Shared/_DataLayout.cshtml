@@ -64,10 +64,10 @@
     <header id="header" class="header d-flex align-items-center fixed-top" style="background-color:#3f414d;box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.2);">
         <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
 
-            <a href="index.html" class="logo d-flex align-items-center">
+            <a asp-action="Index" class="logo d-flex align-items-center">
                 <!-- Uncomment the line below if you also wish to use an image logo -->
-                <!-- <img src="assets/img/logo.png" alt=""> -->
-                <h1 class="sitename">Selecao</h1>
+                <img src="assets/img/DEPI.jpeg" alt="">
+                <h1 class="sitename">Company System</h1>
             </a>
 
             <nav id="navmenu" class="navmenu">
@@ -83,14 +83,10 @@
                             <li><a asp-controller="Projects" asp-action="Index">Projects</a></li>
                             <li><a asp-controller="Dependents" asp-action="Index">Dependents</a></li>
                         }
-                        else if (User.IsInRole(RoleConsts.Employee))
-                        {
-                            <li><a asp-controller="Projects" asp-action="Index">Projects</a></li>
-                        }
                         else if (User.IsInRole(RoleConsts.Manager))
                         {
                             <li><a asp-controller="Employees" asp-action="GetEmployeesUnderManager" asp-route-id="@User.FindFirst("EmployeeId")?.Value">Employees</a></li>
-                            <li><a asp-controller="Projects" asp-action="GetProjectsPerDepartment" asp-route-id="@User.FindFirst("EmployeeId")?.Value">Projects</a></li>
+                            <li><a asp-controller="Projects" asp-action="Index">Projects</a></li>
                         }
                         <li>
                             <a asp-controller="Employees" asp-action="Details" asp-route-id="@User.FindFirst("EmployeeId")?.Value"

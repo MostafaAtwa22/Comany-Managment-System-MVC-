@@ -1,30 +1,3 @@
-.vs/Comany Managment System(MVC)/FileContentIndex/4b28d99a-219f-4e49-8551-e8076ac9ed8c.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/5da003f2-503b-4e6b-9ef2-e4b2e683d5be.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/8a6ed836-2898-4197-9d21-2c4bacf1f708.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/a17cbd1d-9ce1-4d25-9c5b-18e047cc7029.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/dbd91471-631b-4a17-b98d-72c3c1e91d31.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/97300d14-6202-4b9d-9282-2278f7f01e7c.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/712001f8-93e0-4f0b-b302-505ce937ba4b.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/1dd778fb-5dfc-4718-a819-1e1a23caedf2.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/4196957f-e5c9-4880-ac90-8eee5a7ad7fe.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/e81d6a1e-1871-45b5-9922-aca20b477f6c.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/6a60849d-975d-434e-b1d2-0dde5fe96fcb.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/0044a20b-508c-423d-9bfb-6264b5f85077.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/49441557-558f-4285-a63f-5688c7efc4aa.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/86efe495-303d-4aa5-ad80-19f0e64a3152.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/383ada8d-a15b-4674-a05a-907d2248edba.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/426e1315-4f5c-45db-8698-cf1a16f1799e.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/00f0c877-2244-4819-91ca-6487f35ff61a.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/8c75fd1a-bc34-4c08-94c8-59d7077db320.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/9aaf518b-c5ae-4789-828e-bdfadc5d3a42.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/46944d93-b3b0-4129-88c1-65d2508e2bbd.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/155355d5-d906-4a7a-82a8-bd7a9087f73c.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/f4d3839f-f064-43ea-bc73-480a5bc691dc.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/863ff74e-2e58-4a55-ba63-cc763c07d38b.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/2583b2ed-022d-4aa9-966e-3027e48732e4.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/d073badf-d29c-4005-a640-3cd325f2bef7.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/5e410760-0f2e-4f9f-9a7c-7e1b3e5f32e3.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/a69e560a-77df-48c2-8ae3-43949dbd62b5.vsidx
-.vs/Comany Managment System(MVC)/FileContentIndex/a145c7b6-f188-4cc6-ba8a-a807aaa07544.vsidx
-.vs/Comany-Managment-System-MVC-/FileContentIndex/3ff4c5bb-442b-4db9-a552-d07767513941.vsidx
-.vs/Comany-Managment-System-MVC-/FileContentIndex/cb525d73-1ebc-450d-b06d-07e1bb34aa0e.vsidx
+*.vsidx
+bin
+obj
