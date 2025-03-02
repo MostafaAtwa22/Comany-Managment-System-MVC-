@@ -9,6 +9,9 @@ The application is structured following **Onion Architecture**, ensuring high ma
 - **Domain Layer**: Core domain models, business rules, and shared properties.  
 
 ## 🔑 Features  
+✅ **client, server side validations**  
+✅ **Custome attributes to validate some properties**
+✅ **Updload Images**    
 ✅ **Admin, Employee & Manager Roles**  
 ✅ **Authentication & Authorization (Identity & Roles, Forget Password, Google Authentication)**  
 ✅ **User Management (Manage User Accounts, Delete/Lock Users, Role Assignment)**  
