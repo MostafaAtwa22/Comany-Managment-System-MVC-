@@ -19,15 +19,15 @@ The system is structured using **Onion Architecture** for better separation of c
 ✅ **User Management** (Create, Update, Delete, Lock/Unlock Users, Role Assignments)  
 ✅ **Department & Employee Management** (Full CRUD operations)  
 ✅ **Project Management** (Assign Employees, Track Progress)  
-✅ **Role-Specific Data Access**:  
-   - **Managers** can view employees in their department and all projects.  
-   - **Employees** can view only their own data.  
 ✅ **AutoMapper** for seamless object mapping  
 ✅ **Specification Design Pattern** for flexible query filtering  
 ✅ **Repository & Unit of Work Patterns** for database transactions  
 ✅ **Enum Support** (Gender, Relation)  
 ✅ **Clean & Maintainable Code** (SOLID Principles, Dependency Injection)  
 ✅ **Code-First Approach** for database management  
+✅ **Role-Specific Data Access**:  
+   - **Managers** can view employees in their department and all projects.  
+   - **Employees** can view only their own data.  
 
 ## 🔐 Authentication & Authorization  
 - Uses **ASP.NET Identity** for secure authentication  
@@ -67,32 +67,6 @@ The system is structured using **Onion Architecture** for better separation of c
 - Entity Framework Core  
 - LINQ  
 - C#  
-
-### 🔧 Installation & Setup  
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/https://github.com/MostafaAtwa22/Comany_Managment_System_MVC.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd CompanyManagementSystem
-   ```
-3. Restore dependencies:
-   ```sh
-   dotnet restore
-   ```
-4. Apply migrations:
-   ```sh
-   dotnet ef database update
-   ```
-5. Run the application:
-   ```sh
-   dotnet run
-   ```
-6. Open your browser and go to:
-   ```
-   http://localhost:5000
-   ```
 
 ---  
 The **Company Management System** is built for **scalability, security, and efficiency**, making company operations seamless. 🚀
