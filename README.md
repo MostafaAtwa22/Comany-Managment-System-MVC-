@@ -71,7 +71,7 @@ The system is structured using **Onion Architecture** for better separation of c
 ### 🔧 Installation & Setup  
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/https://github.com/MostafaAtwa22/Comany_Managment_System_MVC.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -93,9 +93,6 @@ The system is structured using **Onion Architecture** for better separation of c
    ```
    http://localhost:5000
    ```
-
-## 📜 License  
-This project is licensed under the **MIT License**. Feel free to use and modify it as needed.  
 
 ---  
 The **Company Management System** is built for **scalability, security, and efficiency**, making company operations seamless. 🚀
